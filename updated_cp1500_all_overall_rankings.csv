@@ -1,0 +1,1002 @@
+﻿Pokemon,Score,Dex,Type 1,Type 2,Attack,Defense,Stamina,Stat Product,Level,CP,Fast Move,Charged Move 1,Charged Move 2,Charged Move 1 Count,Charged Move 2 Count,Buddy Distance,Charged Move Cost,Property,Traditional Chinese
+Clodsire,95.0,980,poison,ground,94.2,119.4,209,2352152,29.0,1490,Poison Sting,Sludge Bomb,Earthquake,6,8,3,50000,--,土王
+Mandibuzz,94.1,630,dark,flying,92.3,149.2,176,2424943,27.0,1497,Snarl,Dark Pulse,Aerial Ace,4,4,5,75000,--,禿鷹娜
+Corsola,93.8,222,ghost,none,99.6,162.1,139,2243153,46.5,1494,Astonish,Night Shade,Power Gem,5,5,3,50000,Galarian,太陽珊瑚
+Clodsire,92.8,980,poison,ground,94.2,119.4,209,2352152,29.0,1490,Poison Sting,Earthquake,Stone Edge,8,7,3,50000,--,土王
+Feraligatr,92.2,160,water,none,123.3,118.0,124,1803586,19.5,1493,Shadow Claw,Hydro Cannon,Ice Beam,5,7,3,10000,Shadow,大力鱷
+Gastrodon,92.0,423,water,ground,114.4,102.5,167,1957876,24.5,1497,Mud Slap,Body Slam,Earth Power,4,6,3,50000,--,海兔獸
+Azumarill,91.8,184,water,fairy,93.7,134.1,190,2387435,43.5,1498,Bubble,Ice Beam,Play Rough,5,6,3,50000,--,瑪力露麗
+Feraligatr,91.6,160,water,none,123.3,118.0,124,1803586,19.5,1493,Shadow Claw,Hydro Cannon,Ice Beam,5,7,3,10000,--,大力鱷
+Diggersby,90.7,660,normal,ground,96.3,141.2,171,2324733,48.0,1496,Quick Attack,Fire Punch,Scorching Sands,5,7,1,10000,--,掘地兔
+Primeape,90.7,57,fighting,none,140.2,99.2,115,1598880,24.5,1497,Karate Chop,Rage Fist,Close Combat,4,5,3,50000,--,火爆猴
+Jumpluff,90.6,189,grass,flying,97.0,153.5,155,2308399,41.0,1500,Fairy Wind,Aerial Ace,Energy Ball,5,7,3,50000,Shadow,毽子棉
+Malamar,90.6,687,dark,psychic,118.5,117.1,136,1887141,24.0,1499,Psywave,Superpower,Foul Play,10,12,3,50000,--,烏賊王
+Pangoro,90.6,675,fighting,dark,134.5,92.0,134,1658196,19.0,1496,Karate Chop,Close Combat,Night Slash,5,4,3,50000,--,流氓熊貓
+Carbink,90.5,703,rock,fairy,84.9,247.9,126,2650835,50.0,1500,Rock Throw,Power Gem,Moonblast,10,12,5,75000,--,小碎鑽
+Clefable,90.5,36,fairy,none,117.2,111.5,146,1908090,23.0,1499,Fairy Wind,Moonblast,Swift,7,4,1,10000,--,皮可西
+Dunsparce,90.3,206,normal,none,104.8,111.0,183,2127733,37.5,1496,Rollout,Drill Run,Rock Slide,4,4,3,50000,--,土龍弟弟
+Marowak,90.1,105,ground,none,110.8,145.0,126,2025310,32.0,1500,Mud Slap,Bone Club,Rock Slide,4,5,3,50000,Shadow,嘎啦嘎啦
+Jumpluff,90.0,189,grass,flying,97.0,153.5,155,2308399,41.0,1500,Fairy Wind,Aerial Ace,Energy Ball,5,7,3,50000,--,毽子棉
+Toxapex,90.0,748,poison,water,92.3,222.0,118,2416922,38.5,1493,Poison Jab,Brine,Sludge Wave,8,10,3,50000,--,超壞星
+Primeape,89.9,57,fighting,none,140.2,99.2,115,1598880,24.5,1497,Karate Chop,Rage Fist,Close Combat,4,5,3,50000,Shadow,火爆猴
+Quagsire,89.7,195,water,ground,111.3,112.0,161,2005558,28.5,1494,Mud Shot,Aqua Tail,Stone Edge,5,7,3,50000,Shadow,沼王
+Bastiodon,89.2,411,rock,steel,81.1,246.7,138,2761698,47.5,1498,Smack Down,Stone Edge,Flamethrower,7,7,5,75000,--,護城龍
+Sandslash,89.0,28,ice,steel,116.6,132.6,124,1917384,23.0,1500,Powder Snow,Ice Punch,Drill Run,5,6,3,50000,Alolan,穿山王
+Lickilicky,88.7,463,normal,none,106.3,121.1,164,2111832,23.0,1498,Rollout,Body Slam,Shadow Ball,3,5,3,50000,--,大舌舔
+Machamp,88.7,68,fighting,none,136.4,97.2,124,1644073,17.5,1497,Karate Chop,Cross Chop,Stone Edge,4,7,3,50000,Shadow,怪力
+Gallade,88.3,475,psychic,fighting,137.2,114.5,104,1633015,18.0,1498,Psycho Cut,Close Combat,Leaf Blade,5,4,5,75000,Shadow,艾路雷朵
+Machoke,88.2,67,fighting,none,127.7,97.2,141,1750103,27.0,1498,Karate Chop,Cross Chop,Dynamic Punch,4,6,3,50000,Shadow,豪力
+Drapion,88.1,452,poison,dark,118.5,136.5,117,1892269,23.0,1499,Poison Sting,Crunch,Aqua Tail,5,4,5,75000,Shadow,龍王蠍
+Aurorus,88.0,699,rock,ice,114.1,105.7,163,1966639,20.0,1498,Powder Snow,Weather Ball (Ice),Meteor Beam,5,8,5,75000,--,冰雪巨龍
+Guzzlord,88.0,799,dark,dragon,113.3,65.5,266,1972626,19.5,1494,Dragon Tail,Brutal Swing,Sludge Bomb,4,6,20,100000,--,惡食大王
+Registeel,88.0,379,steel,none,95.5,189.6,130,2353244,23.0,1499,Lock On,Focus Blast,Zap Cannon,15,16,20,100000,--,雷吉斯奇魯
+Quagsire,87.9,195,water,ground,111.3,112.0,161,2005558,28.5,1494,Mud Shot,Aqua Tail,Stone Edge,5,7,3,50000,--,沼王
+Marowak,87.6,105,ground,none,110.8,145.0,126,2025310,32.0,1500,Mud Slap,Bone Club,Rock Slide,4,5,3,50000,--,嘎啦嘎啦
+Steelix,87.6,208,steel,ground,98.4,185.2,124,2260578,23.5,1493,Dragon Tail,Psychic Fangs,Crunch,4,5,5,75000,--,大鋼蛇
+Annihilape,87.4,979,fighting,ghost,123.9,106.3,137,1804832,17.0,1499,Counter,Rage Fist,Close Combat,6,8,3,50000,--,棄世猴
+Golurk,87.3,623,ground,ghost,133.9,96.7,129,1671084,19.5,1500,Mud Slap,Shadow Punch,Dynamic Punch,4,5,5,75000,Shadow,泥偶巨人
+Walrein,87.3,365,ice,water,113.1,114.3,153,1978119,20.5,1495,Powder Snow,Icicle Spear,Earthquake,5,9,3,50000,--,帝牙海獅
+Serperior,87.2,497,grass,none,110.2,143.6,128,2025814,25.0,1499,Vine Whip,Frenzy Plant,Aerial Ace,6,5,3,10000,--,君主蛇
+Machamp,87.0,68,fighting,none,136.4,97.2,124,1644073,17.5,1497,Karate Chop,Cross Chop,Stone Edge,4,7,3,50000,--,怪力
+Sandslash,86.8,28,ice,steel,116.6,132.6,124,1917384,23.0,1500,Powder Snow,Ice Punch,Drill Run,5,6,3,50000,Alolan,穿山王
+Qwilfish,86.7,211,water,poison,130.5,105.5,123,1693578,27.0,1490,Poison Sting,Aqua Tail,Ice Beam,4,7,3,50000,--,千針魚
+Annihilape,86.6,979,fighting,ghost,123.9,106.3,137,1804832,17.0,1499,Counter,Rage Fist,Close Combat,6,8,3,50000,Shadow,棄世猴
+Moltres,86.6,146,dark,flying,115.1,137.5,122,1930734,17.5,1493,Sucker Punch,Ancient Power,Brave Bird,7,8,20,100000,Galarian,火焰鳥
+Samurott,86.6,503,water,none,129.0,102.2,132,1740020,20.0,1498,Fury Cutter,Hydro Cannon,Megahorn,10,14,3,10000,--,大劍鬼
+Weezing,86.6,110,poison,fairy,118.4,138.9,115,1889997,24.5,1495,Fairy Wind,Brutal Swing,Play Rough,4,7,3,50000,Galarian,雙彈瓦斯
+Dewgong,86.4,87,water,ice,102.9,133.8,158,2174933,29.0,1500,Ice Shard,Icy Wind,Drill Run,5,5,3,50000,--,白海獅
+Hakamo-o,86.4,783,dragon,fighting,115.5,134.8,124,1931380,36.5,1493,Dragon Tail,Dragon Claw,Brick Break,4,5,5,75000,--,鱗甲龍
+Togetic,86.4,176,fairy,flying,110.6,150.0,122,2023327,37.0,1496,Fairy Wind,Aerial Ace,Dazzling Gleam,5,8,3,50000,--,波克基古
+Marowak,86.3,105,fire,ghost,110.8,145.0,126,2025310,32.0,1500,Fire Spin,Shadow Bone,Bone Club,5,4,3,50000,Alolan,嘎啦嘎啦
+Steelix,86.3,208,steel,ground,98.4,185.2,124,2260578,23.5,1493,Dragon Tail,Psychic Fangs,Crunch,4,5,5,75000,Shadow,大鋼蛇
+Wigglytuff,86.2,40,normal,fairy,115.8,75.5,220,1924765,29.0,1495,Charm,Icy Wind,Swift,8,6,1,10000,--,胖可丁
+Arctibax,86.1,997,dragon,ice,123.1,97.7,151,1815086,26.5,1499,Dragon Breath,Avalanche,Dragon Claw,15,12,5,75000,--,凍脊龍
+Florges,86.1,671,fairy,none,120.1,142.1,109,1859855,17.0,1494,Fairy Wind,Disarming Voice,Moonblast,5,7,3,50000,--,花潔夫人
+Marowak,86.1,105,fire,ghost,110.8,145.0,126,2025310,32.0,1500,Fire Spin,Bone Club,Shadow Bone,4,5,3,50000,Alolan,嘎啦嘎啦
+Drapion,86.0,452,poison,dark,118.5,136.5,117,1892269,23.0,1499,Poison Sting,Crunch,Aqua Tail,5,4,5,75000,--,龍王蠍
+Greninja,86.0,658,water,dark,139.6,101.6,113,1602682,21.0,1497,Water Shuriken,Hydro Cannon,Night Slash,3,3,3,10000,--,甲賀忍蛙
+Whiscash,86.0,340,water,ground,107.6,107.6,178,2060545,27.0,1490,Mud Shot,Mud Bomb,Scald,5,7,1,10000,Shadow,鯰魚王
+Bastiodon,85.9,411,rock,steel,81.1,246.7,138,2761698,47.5,1498,Smack Down,Stone Edge,Flamethrower,7,7,5,75000,Shadow,護城龍
+Miltank,85.9,241,normal,none,105.4,135.5,148,2112476,24.0,1494,Rollout,Body Slam,Thunderbolt,3,5,5,75000,--,大奶罐
+Weezing,85.9,110,poison,fairy,118.4,138.9,115,1889997,24.5,1495,Fairy Wind,Play Rough,Brutal Swing,7,4,3,50000,Galarian,雙彈瓦斯
+Goodra,85.8,706,dragon,none,119.7,136.8,114,1866601,16.0,1497,Dragon Breath,Aqua Tail,Thunder Punch,12,14,5,75000,--,黏美龍
+Walrein,85.8,365,ice,water,113.1,114.3,153,1978119,20.5,1495,Powder Snow,Icicle Spear,Earthquake,5,9,3,50000,Shadow,帝牙海獅
+Cresselia,85.6,488,psychic,none,93.2,158.3,163,2404853,20.0,1497,Psycho Cut,Grass Knot,Moonblast,6,7,20,100000,--,克雷色利亞
+Donphan,85.6,232,ground,none,125.8,112.0,126,1776372,18.5,1500,Mud Slap,Trailblaze,Body Slam,5,4,3,50000,Shadow,頓甲
+Chesnaught,85.5,652,grass,fighting,119.9,124.6,125,1868328,19.0,1498,Vine Whip,Frenzy Plant,Superpower,6,5,3,10000,--,布里卡隆
+Skarmory,85.5,227,steel,flying,106.2,163.1,122,2113576,27.0,1499,Steel Wing,Brave Bird,Sky Attack,10,10,5,75000,--,盔甲鳥
+Swampert,85.4,260,water,ground,123.0,108.6,136,1815930,18.5,1498,Mud Shot,Hydro Cannon,Earthquake,5,9,3,10000,--,巨沼怪
+Whimsicott,85.4,547,grass,fairy,118.4,133.1,119,1875239,27.5,1490,Fairy Wind,Seed Bomb,Moonblast,5,7,1,10000,--,風妖精
+Hippowdon,85.3,450,ground,none,116.2,116.8,141,1912627,18.0,1494,Sand Attack,Weather Ball (Rock),Scorching Sands,9,13,3,50000,Shadow,河馬獸
+Regirock,85.3,377,rock,none,103.7,180.2,115,2149641,18.0,1497,Lock On,Stone Edge,Focus Blast,11,15,20,100000,--,雷吉洛克
+Ursaring,85.3,217,normal,none,140.3,89.1,128,1600223,19.0,1499,Shadow Claw,Swift,Close Combat,5,6,3,50000,Shadow,圈圈熊
+Abomasnow,85.2,460,grass,ice,117.9,111.4,143,1877258,23.5,1491,Powder Snow,Icy Wind,Energy Ball,6,7,3,50000,--,暴雪王
+Drifblim,85.2,426,ghost,flying,119.8,75.0,208,1867826,23.0,1498,Astonish,Icy Wind,Shadow Ball,5,6,5,75000,--,隨風球
+Gogoat,85.2,673,grass,none,119.2,95.0,165,1867240,19.5,1492,Vine Whip,Leaf Blade,Brick Break,5,5,3,50000,--,坐騎山羊
+Lickitung,85.2,108,normal,none,98.3,126.9,183,2282878,50.0,1498,Lick,Body Slam,Power Whip,12,17,3,50000,--,大舌頭
+Whiscash,85.2,340,water,ground,107.6,107.6,178,2060545,27.0,1490,Mud Shot,Mud Bomb,Scald,5,7,1,10000,--,鯰魚王
+Abomasnow,85.1,460,grass,ice,117.9,111.4,143,1877258,23.5,1491,Powder Snow,Weather Ball (Ice),Energy Ball,5,7,3,50000,Shadow,暴雪王
+Dusknoir,85.1,477,ghost,none,119.8,172.9,90,1864291,23.5,1499,Astonish,Shadow Ball,Shadow Punch,6,4,3,50000,Shadow,黑夜魔靈
+Golurk,85.1,623,ground,ghost,133.9,96.7,129,1671084,19.5,1500,Mud Slap,Shadow Punch,Dynamic Punch,4,5,5,75000,--,泥偶巨人
+Lanturn,85.1,171,water,electric,104.8,104.8,194,2131348,27.0,1496,Water Gun,Surf,Thunderbolt,15,19,3,50000,--,電燈怪
+Sableye,85.1,302,dark,ghost,121.0,123.5,124,1853355,45.5,1499,Shadow Claw,Foul Play,Power Gem,6,7,5,75000,Shadow,勾魂眼
+Talonflame,85.0,663,fire,flying,122.1,114.7,131,1834291,25.5,1499,Incinerate,Fly,Brave Bird,3,3,1,10000,--,烈箭鷹
+Umbreon,85.0,197,dark,none,90.2,177.0,155,2475791,27.0,1497,Snarl,Foul Play,Last Resort,4,5,5,75000,--,月亮伊布
+Swampert,84.9,260,water,ground,123.0,108.6,136,1815930,18.5,1498,Mud Shot,Hydro Cannon,Earthquake,5,9,3,10000,Shadow,巨沼怪
+Ariados,84.8,168,bug,poison,124.7,102.0,141,1793573,34.0,1497,Poison Sting,Lunge,Trailblaze,5,5,1,10000,--,阿利多斯
+Kommo-o,84.5,784,dragon,fighting,123.7,138.4,105,1797551,16.5,1497,Dragon Tail,Close Combat,Dragon Claw,5,4,5,75000,--,杖尾鱗甲龍
+Lurantis,84.5,754,grass,none,126.9,114.6,121,1760366,23.5,1495,Fury Cutter,Leaf Blade,Superpower,9,10,3,50000,--,蘭螳花
+Zweilous,84.4,634,dark,dragon,121.0,109.2,140,1849588,31.0,1496,Dragon Breath,Body Slam,Dark Pulse,12,17,5,75000,--,雙首暴龍
+Cetoddle,84.3,974,ice,none,112.6,79.8,213,1914594,50.0,1469,Powder Snow,Avalanche,Body Slam,6,5,3,50000,--,走鯨
+Dragonair,84.1,148,dragon,none,126.0,111.0,127,1775090,33.0,1497,Dragon Breath,Body Slam,Aqua Tail,12,12,5,75000,Shadow,哈克龍
+Gallade,84.1,475,psychic,fighting,137.2,114.5,104,1633015,18.0,1498,Psycho Cut,Close Combat,Leaf Blade,5,4,5,75000,--,艾路雷朵
+Meganium,84.1,154,grass,none,111.5,138.4,130,2005358,23.0,1499,Vine Whip,Frenzy Plant,Earthquake,6,9,3,10000,--,大竺葵
+Regirock,84.1,377,rock,none,103.7,180.2,115,2149641,18.0,1497,Lock On,Stone Edge,Focus Blast,11,15,20,100000,Shadow,雷吉洛克
+Runerigus,84.1,867,ground,ghost,112.2,168.3,106,2002086,25.0,1500,Shadow Claw,Brutal Swing,Shadow Ball,5,7,3,50000,--,死神板
+Cresselia,84.0,488,psychic,none,93.2,158.3,163,2404853,20.0,1497,Psycho Cut,Grass Knot,Moonblast,6,7,20,100000,Shadow,克雷色利亞
+Gligar,84.0,207,ground,flying,108.0,146.2,130,2052969,30.5,1493,Fury Cutter,Aerial Ace,Dig,10,13,5,75000,Shadow,天蠍
+Drifblim,83.9,426,ghost,flying,119.8,75.0,208,1867826,23.0,1498,Astonish,Icy Wind,Shadow Ball,5,6,5,75000,Shadow,隨風球
+Ninetales,83.9,38,ice,fairy,115.1,133.6,126,1936253,24.5,1498,Powder Snow,Weather Ball (Ice),Dazzling Gleam,5,9,3,50000,Alolan,九尾
+Stunfisk,83.9,618,ground,steel,101.8,127.9,169,2200089,26.5,1497,Mud Shot,Rock Slide,Earthquake,6,9,5,75000,Galarian,泥巴魚
+Ferrothorn,83.8,598,grass,steel,107.3,155.1,125,2080828,24.0,1498,Bullet Seed,Power Whip,Thunder,4,5,3,75000,--,堅果啞鈴
+Stunfisk,83.7,618,ground,electric,101.8,127.9,169,2200089,26.5,1497,Thunder Shock,Mud Bomb,Discharge,5,5,5,75000,--,泥巴魚
+Togedemaru,83.7,777,electric,steel,132.1,105.6,121,1688198,26.0,1495,Thunder Shock,Fell Stinger,Wild Charge,4,5,3,50000,--,托戈德瑪爾
+Donphan,83.6,232,ground,none,125.8,112.0,126,1776372,18.5,1500,Mud Slap,Trailblaze,Body Slam,5,4,3,50000,--,頓甲
+Venusaur,83.6,3,grass,poison,122.5,121.9,122,1820851,20.0,1496,Vine Whip,Frenzy Plant,Sludge Bomb,6,7,3,10000,--,妙蛙花
+Araquanid,83.5,752,water,bug,97.9,176.1,133,2292389,33.5,1499,Bug Bite,Bug Buzz,Bubble Beam,20,14,3,50000,--,滴蛛霸
+Dusknoir,83.5,477,ghost,none,119.8,172.9,90,1864291,23.5,1499,Astonish,Shadow Ball,Shadow Punch,6,4,3,50000,--,黑夜魔靈
+Froslass,83.5,478,ice,ghost,122.6,115.6,128,1813850,27.5,1496,Powder Snow,Avalanche,Shadow Ball,6,7,3,50000,--,雪妖女
+Charjabug,83.4,737,bug,electric,116.1,132.4,126,1936447,38.0,1500,Volt Switch,X-Scissor,Discharge,3,3,1,10000,--,蟲電寶
+Gligar,83.4,207,ground,flying,108.0,146.2,130,2052969,30.5,1493,Fury Cutter,Aerial Ace,Dig,10,13,5,75000,--,天蠍
+Machoke,83.4,67,fighting,none,127.7,97.2,141,1750103,27.0,1498,Karate Chop,Cross Chop,Return,4,8,3,50000,--,豪力
+Golisopod,83.3,768,bug,water,125.2,133.6,107,1788916,17.5,1498,Shadow Claw,X-Scissor,Liquidation,5,6,1,10000,--,具甲武者
+Dragonair,83.2,148,dragon,none,126.0,111.0,127,1775090,33.0,1497,Dragon Breath,Aqua Tail,Body Slam,12,12,5,75000,--,哈克龍
+Leavanny,83.2,542,bug,grass,131.0,109.0,120,1713215,22.0,1499,Shadow Claw,Leaf Blade,X-Scissor,5,5,1,10000,--,保母蟲
+Dragonite,83.1,149,dragon,flying,135.8,108.4,111,1633580,14.5,1495,Dragon Breath,Dragon Claw,Superpower,12,14,5,75000,Shadow,快龍
+Ninetales,83.1,38,ice,fairy,115.1,133.6,126,1936253,24.5,1498,Powder Snow,Weather Ball (Ice),Dazzling Gleam,5,9,3,50000,Alolan,九尾
+Qwilfish,83.1,211,dark,poison,129.5,111.3,120,1729959,25.5,1497,Poison Sting,Aqua Tail,Shadow Ball,4,7,3,50000,Hisuian,千針魚
+Lokix,83.0,920,bug,dark,132.9,104.1,121,1672678,24.0,1491,Sucker Punch,X-Scissor,Trailblaze,6,7,1,50000,--,烈腿蝗
+Registeel,83.0,379,steel,none,95.5,189.6,130,2353244,23.0,1499,Lock On,Focus Blast,Zap Cannon,15,16,20,100000,Shadow,雷吉斯奇魯
+Castform,82.9,351,water,none,113.4,119.6,146,1979669,38.5,1499,Water Gun,Weather Ball (Water),Thunder,12,20,5,75000,Rainy,飄浮泡泡
+Ursaring,82.9,217,normal,none,140.3,89.1,128,1600223,19.0,1499,Shadow Claw,Swift,Close Combat,5,6,3,50000,--,圈圈熊
+Hippowdon,82.8,450,ground,none,116.2,116.8,141,1912627,18.0,1494,Sand Attack,Weather Ball (Rock),Scorching Sands,9,13,3,50000,--,河馬獸
+Sealeo,82.8,364,ice,water,108.6,113.2,167,2053854,36.5,1497,Powder Snow,Water Pulse,Body Slam,7,5,3,50000,Shadow,海魔獅
+Skuntank,82.8,435,poison,dark,121.7,95.2,157,1819546,23.5,1490,Poison Jab,Crunch,Trailblaze,7,7,3,50000,--,坦克臭鼬
+Venusaur,82.8,3,grass,poison,122.5,121.9,122,1820851,20.0,1496,Vine Whip,Frenzy Plant,Sludge Bomb,6,7,3,10000,Shadow,妙蛙花
+Ferrothorn,82.7,598,grass,steel,107.3,155.1,125,2080828,24.0,1498,Bullet Seed,Power Whip,Thunder,4,5,3,75000,Shadow,堅果啞鈴
+Medicham,82.7,308,fighting,psychic,106.9,139.5,141,2102958,49.0,1500,Counter,Ice Punch,Dynamic Punch,7,9,3,50000,--,恰雷姆
+Regice,82.7,378,ice,none,103.7,180.2,115,2149641,18.0,1497,Lock On,Blizzard,Thunder,15,12,20,100000,--,雷吉艾斯
+Tropius,82.7,357,grass,flying,101.4,127.3,170,2195741,29.0,1494,Air Slash,Leaf Blade,Aerial Ace,4,5,5,75000,--,熱帶龍
+Nidorina,82.6,30,poison,none,110.9,113.4,157,1975496,50.0,1480,Poison Sting,Poison Fang,Thunderbolt,5,7,3,50000,--,尼多娜
+Greedent,82.5,820,normal,none,107.5,110.7,175,2083197,23.5,1498,Mud Shot,Body Slam,Trailblaze,5,6,1,10000,--,藏飽栗鼠
+Oranguru,82.5,765,normal,psychic,110.9,131.2,139,2021720,22.5,1499,Confusion,Brutal Swing,Trailblaze,3,4,3,75000,--,智揮猩
+Overqwil,82.5,904,dark,poison,131.6,106.6,121,1696708,19.0,1498,Poison Jab,Aqua Tail,Shadow Ball,5,8,5,75000,--,萬針魚
+Trevenant,82.5,709,ghost,grass,127.8,104.6,131,1752077,22.0,1499,Shadow Claw,Seed Bomb,Shadow Ball,6,7,5,75000,--,朽木妖
+Cetitan,82.3,975,ice,none,120.7,75.9,203,1861103,18.0,1500,Powder Snow,Avalanche,Body Slam,6,5,3,50000,--,浩大鯨
+Froslass,82.3,478,ice,ghost,122.6,115.6,128,1813850,27.5,1496,Powder Snow,Avalanche,Shadow Ball,6,7,3,50000,Shadow,雪妖女
+Spiritomb,82.3,442,ghost,dark,121.2,146.4,104,1845420,27.5,1498,Sucker Punch,Shadow Sneak,Shadow Ball,7,8,5,75000,--,花岩怪
+Dragonite,82.2,149,dragon,flying,135.8,108.4,111,1633580,14.5,1495,Dragon Breath,Dragon Claw,Superpower,12,14,5,75000,--,快龍
+Munchlax,82.2,446,normal,none,104.0,95.2,218,2158275,31.0,1499,Tackle,Body Slam,Bulldoze,12,20,5,10000,--,小卡比獸
+Skarmory,82.1,227,steel,flying,106.2,163.1,122,2113576,27.0,1499,Steel Wing,Brave Bird,Sky Attack,10,10,5,75000,Shadow,盔甲鳥
+Dragalge,82.0,691,poison,dragon,117.9,139.9,115,1895881,23.5,1496,Dragon Tail,Aqua Tail,Outrage,4,7,3,50000,--,毒藻龍
+Pachirisu,82.0,417,electric,none,91.6,157.1,142,2043738,50.0,1372,Volt Switch,Thunder Punch,Thunderbolt,3,4,5,75000,--,帕奇利茲
+Altaria,81.9,334,dragon,flying,103.4,153.3,136,2156405,28.5,1498,Dragon Breath,Sky Attack,Moonblast,19,20,1,10000,--,七夕青鳥
+Castform,81.9,351,ice,none,113.4,119.6,146,1979669,38.5,1499,Powder Snow,Weather Ball (Ice),Blizzard,5,10,5,75000,Snowy,飄浮泡泡
+Emolga,81.9,587,electric,flying,127.9,111.4,123,1752744,39.0,1498,Thunder Shock,Acrobatics,Discharge,7,5,1,10000,--,電飛鼠
+Cofagrigus,81.8,563,ghost,none,112.2,168.3,106,2002086,25.0,1500,Shadow Claw,Shadow Ball,Dark Pulse,7,7,3,50000,--,死神棺
+Nidorina,81.8,30,poison,none,110.9,113.4,157,1975496,50.0,1480,Poison Sting,Poison Fang,Dig,5,6,3,50000,Shadow,尼多娜
+Perrserker,81.8,863,steel,none,128.9,114.6,117,1728225,23.5,1493,Shadow Claw,Close Combat,Trailblaze,6,6,3,50000,--,喵頭目
+Sableye,81.8,302,dark,ghost,121.0,123.5,124,1853355,45.5,1499,Shadow Claw,Foul Play,Return,6,9,5,75000,--,勾魂眼
+Dugtrio,81.7,51,ground,steel,148.9,111.5,90,1494460,29.0,1497,Mud Slap,Mud Bomb,Iron Head,4,5,3,50000,Alolan,三地鼠
+Gengar,81.7,94,ghost,poison,156.6,94.3,97,1433181,19.0,1500,Shadow Claw,Shadow Punch,Sludge Bomb,5,7,3,50000,Shadow,耿鬼
+Meganium,81.7,154,grass,none,111.5,138.4,130,2005358,23.0,1499,Vine Whip,Frenzy Plant,Earthquake,6,9,3,10000,Shadow,大竺葵
+Ninetales,81.7,38,fire,none,115.1,133.6,126,1936253,24.5,1494,Fire Spin,Weather Ball (Fire),Overheat,4,6,3,50000,--,九尾
+Poliwrath,81.7,62,water,fighting,116.5,119.7,138,1924689,22.0,1500,Counter,Scald,Icy Wind,9,8,3,50000,--,蚊香泳士
+Blastoise,81.6,9,water,none,111.5,140.7,127,1992357,22.5,1492,Water Gun,Hydro Cannon,Ice Beam,14,19,3,10000,--,水箭龜
+Empoleon,81.6,395,water,steel,125.8,115.9,122,1777988,19.0,1500,Metal Claw,Hydro Cannon,Drill Peck,6,6,3,10000,Shadow,帝王拿波
+Oinkologne,81.5,916,normal,none,110.9,110.3,166,2029519,22.5,1500,Tackle,Body Slam,Trailblaze,12,15,1,10000,Female,飄香豚
+Raticate,81.5,20,dark,normal,107.5,130.7,148,2078413,37.0,1496,Quick Attack,Crunch,Return,6,9,1,10000,Alolan,拉達
+Hawlucha,81.4,701,fighting,flying,128.9,108.8,124,1738490,23.5,1498,Poison Jab,Flying Press,Aerial Ace,6,6,5,75000,--,摔角鷹人
+Hydreigon,81.4,635,dark,dragon,136.6,103.5,116,1639587,15.0,1499,Dragon Breath,Brutal Swing,Flash Cannon,12,24,5,75000,--,三首惡龍
+Mantine,81.4,226,water,flying,106.2,163.1,122,2113576,27.0,1499,Wing Attack,Aerial Ace,Ice Beam,6,8,5,75000,--,巨翅飛魚
+Empoleon,81.3,395,water,steel,125.8,115.9,122,1777988,19.0,1500,Metal Claw,Hydro Cannon,Drill Peck,6,6,3,10000,--,帝王拿波
+Giratina,81.3,487,ghost,dragon,119.5,103.5,152,1879872,15.0,1499,Shadow Claw,Ominous Wind,Shadow Ball,6,7,20,100000,Origin,騎拉帝納
+Golett,81.2,622,ground,ghost,119.3,89.9,141,1512725,50.0,1344,Mud Slap,Shadow Punch,Brick Break,4,4,5,75000,Shadow,泥偶小人
+Mawile,81.2,303,steel,fairy,125.9,121.2,117,1784529,38.5,1500,Fairy Wind,Iron Head,Play Rough,6,7,5,75000,--,大嘴娃
+Nidoqueen,81.2,31,poison,ground,117.8,116.5,139,1908186,22.0,1499,Poison Jab,Earth Power,Poison Fang,8,6,3,50000,Shadow,尼多后
+Decidueye,81.1,724,grass,ghost,127.8,115.3,118,1739336,20.0,1492,Astonish,Frenzy Plant,Spirit Shackle,5,4,3,10000,--,狙射樹梟
+Flygon,81.1,330,ground,dragon,129.2,109.6,123,1740871,21.0,1499,Dragon Tail,Dragon Claw,Scorching Sands,4,6,5,75000,Shadow,沙漠蜻蜓
+Marshtomp,81.1,259,water,ground,121.2,109.9,139,1851275,33.5,1499,Mud Shot,Mud Bomb,Surf,5,6,3,10000,Shadow,沼躍魚
+Tentacruel,81.1,73,water,poison,110.1,139.9,132,2032660,23.5,1496,Poison Jab,Acid Spray,Scald,7,8,3,50000,--,毒刺水母
+Zapdos,81.1,145,electric,flying,136.2,104.7,115,1639560,15.5,1495,Thunder Shock,Drill Peck,Thunderbolt,5,7,20,100000,Shadow,閃電鳥
+Flygon,81.0,330,ground,dragon,129.2,109.6,123,1740871,21.0,1499,Dragon Tail,Scorching Sands,Dragon Claw,6,4,5,75000,--,沙漠蜻蜓
+Nidoqueen,81.0,31,poison,ground,117.8,116.5,139,1908186,22.0,1499,Poison Jab,Earth Power,Poison Fang,8,6,3,50000,--,尼多后
+Salazzle,81.0,758,poison,fire,146.6,90.9,114,1518532,22.0,1492,Incinerate,Poison Fang,Dragon Pulse,2,3,3,50000,--,焰后蜥
+Beedrill,80.9,15,bug,poison,127.6,106.2,129,1749201,31.0,1494,Poison Jab,X-Scissor,Drill Run,6,7,1,10000,--,大針蜂
+Amoonguss,80.8,591,grass,poison,110.4,102.0,181,2038411,27.0,1500,Astonish,Grass Knot,Sludge Bomb,5,5,3,50000,--,敗露球菇
+Cradily,80.8,346,rock,grass,106.3,139.0,143,2111521,26.0,1498,Bullet Seed,Rock Slide,Grass Knot,4,4,3,50000,--,搖籃百合
+Jellicent,80.8,593,water,ghost,106.7,124.3,157,2082451,24.0,1490,Hex,Surf,Shadow Ball,4,5,3,50000,--,胖嘟嘟
+Machop,80.8,66,fighting,none,127.7,81.5,157,1634495,50.0,1445,Karate Chop,Cross Chop,Brick Break,4,5,3,50000,Shadow,腕力
+Machop,80.7,66,fighting,none,127.7,81.5,157,1634495,50.0,1445,Karate Chop,Cross Chop,Return,4,8,3,50000,--,腕力
+Sealeo,80.7,364,ice,water,108.6,113.2,167,2053854,36.5,1497,Powder Snow,Water Pulse,Body Slam,7,5,3,50000,--,海魔獅
+Dubwool,80.6,832,normal,none,111.0,141.7,128,2013564,26.0,1499,Double Kick,Body Slam,Payback,3,5,3,10000,--,毛毛角羊
+Marshtomp,80.6,259,water,ground,120.3,108.9,142,1860776,35.0,1498,Mud Shot,Mud Bomb,Surf,5,6,3,10000,--,沼躍魚
+Rapidash,80.6,78,psychic,fairy,134.7,110.9,111,1658326,22.0,1498,Fairy Wind,Body Slam,Wild Charge,4,5,3,50000,Galarian,烈焰馬
+Scizor,80.6,212,bug,steel,137.9,110.3,106,1612512,18.5,1497,Fury Cutter,Night Slash,Trailblaze,9,12,5,75000,--,巨鉗螳螂
+Skuntank,80.6,435,poison,dark,121.7,95.2,157,1819546,23.5,1490,Poison Jab,Crunch,Trailblaze,7,7,3,50000,Shadow,坦克臭鼬
+Typhlosion,80.6,157,fire,none,132.2,108.3,117,1674892,19.0,1488,Incinerate,Blast Burn,Thunder Punch,3,2,3,10000,Shadow,火爆獸
+Magnezone,80.5,462,electric,steel,134.9,120.1,102,1652719,17.0,1496,Volt Switch,Wild Charge,Mirror Shot,3,3,3,50000,--,自爆磁怪
+Ninetales,80.5,38,fire,none,115.1,133.6,126,1936253,24.5,1494,Fire Spin,Weather Ball (Fire),Overheat,4,6,3,50000,Shadow,九尾
+Klefki,80.4,707,steel,fairy,119.0,134.2,118,1884790,29.5,1499,Astonish,Foul Play,Play Rough,5,6,3,50000,--,鑰圈兒
+Amaura,80.3,698,rock,ice,114.3,104.2,164,1952869,50.0,1497,Powder Snow,Weather Ball (Ice),Thunderbolt,5,7,5,75000,--,冰雪龍
+Pelipper,80.3,279,water,flying,123.3,128.7,114,1809463,26.0,1496,Wing Attack,Weather Ball (Water),Hurricane,5,10,3,50000,--,大嘴鷗
+Poliwrath,80.3,62,water,fighting,116.5,119.7,138,1924689,22.0,1500,Counter,Scald,Icy Wind,9,8,3,50000,Shadow,蚊香泳士
+Tapu Fini,80.3,788,water,fairy,115.3,155.3,108,1934126,20.0,1498,Water Gun,Surf,Nature's Madness,15,17,20,100000,--,卡璞・鰭鰭
+Cradily,80.2,346,rock,grass,106.3,139.0,143,2111521,26.0,1498,Bullet Seed,Rock Slide,Grass Knot,4,4,3,50000,Shadow,搖籃百合
+Furfrou,80.2,676,normal,none,116.6,122.9,134,1919933,27.0,1500,Sucker Punch,Surf,Grass Knot,7,8,5,75000,--,多麗米亞
+Regice,80.2,378,ice,none,103.7,180.2,115,2149641,18.0,1497,Lock On,Blizzard,Thunder,15,12,20,100000,Shadow,雷吉艾斯
+Scrafty,80.2,560,dark,fighting,110.4,155.4,117,2007526,24.5,1489,Counter,Foul Play,Thunder Punch,8,7,3,50000,--,頭巾混混
+Sneasler,80.2,903,fighting,poison,146.0,95.3,110,1529893,17.0,1495,Shadow Claw,Close Combat,Aerial Ace,6,5,5,75000,Shadow,大狃拉
+Dragapult,80.1,887,dragon,ghost,143.6,97.3,112,1564692,15.5,1499,Astonish,Breaking Swipe,Shadow Ball,4,6,5,75000,--,多龍巴魯托
+Politoed,80.1,186,water,none,114.7,121.7,140,1954251,23.0,1498,Mud Shot,Weather Ball (Water),Earthquake,5,9,3,50000,Shadow,蚊香蛙皇
+Staravia,80.1,397,normal,flying,131.9,91.6,135,1631281,50.0,1468,Quick Attack,Brave Bird,Fly,7,6,1,10000,--,姆克鳥
+Grimer,80.0,88,poison,none,121.5,88.0,171,1827419,49.5,1493,Mud Slap,Mud Bomb,Sludge Bomb,4,5,3,50000,--,臭泥
+Mawile,80.0,303,steel,fairy,125.9,121.2,117,1784529,38.5,1500,Fairy Wind,Iron Head,Play Rough,6,7,5,75000,Shadow,大嘴娃
+Relicanth,80.0,369,water,rock,105.2,137.5,147,2126096,22.5,1498,Water Gun,Aqua Tail,Ancient Power,12,15,5,75000,--,古空棘魚
+Scizor,80.0,212,bug,steel,137.9,110.3,106,1612512,18.5,1497,Fury Cutter,Night Slash,Trailblaze,9,12,5,75000,Shadow,巨鉗螳螂
+Baxcalibur,79.9,998,dragon,ice,136.2,96.2,125,1638843,15.5,1495,Dragon Breath,Avalanche,Dragon Claw,15,12,5,75000,--,戟脊龍
+Dewott,79.9,502,water,none,124.2,98.6,147,1800321,33.5,1498,Fury Cutter,Aqua Tail,X-Scissor,9,10,3,10000,--,雙刃丸
+Morpeko,79.9,877,electric,dark,141.7,97.8,114,1580701,29.0,1499,Thunder Shock,Aura Wheel,Psychic Fangs,5,4,3,50000,Full Belly,莫魯貝可
+Piloswine,79.9,221,ice,ground,121.1,98.2,155,1842165,24.0,1497,Powder Snow,Avalanche,High Horsepower,6,8,3,50000,--,長毛豬
+Sandslash,79.9,28,ground,none,120.5,121.1,126,1837863,23.5,1493,Sand Attack,Night Slash,Scorching Sands,9,13,3,50000,Shadow,穿山王
+Gyarados,79.8,130,water,flying,130.8,108.0,121,1708726,16.5,1498,Dragon Breath,Aqua Tail,Crunch,12,15,1,10000,Shadow,暴鯉龍
+Magnezone,79.8,462,electric,steel,134.9,120.1,102,1652719,17.0,1496,Volt Switch,Wild Charge,Mirror Shot,3,3,3,50000,Shadow,自爆磁怪
+Swalot,79.8,317,poison,none,104.1,123.4,168,2158208,28.5,1500,Mud Shot,Sludge Bomb,Ice Beam,7,7,1,10000,--,吞食獸
+Genesect,79.7,649,bug,steel,141.1,111.7,100,1575465,16.0,1498,Fury Cutter,X-Scissor,Techno Blast (Normal),10,14,20,100000,--,蓋諾賽克特
+Noctowl,79.7,164,normal,flying,105.3,120.2,167,2113724,28.0,1494,Wing Attack,Sky Attack,Night Shade,8,7,1,10000,--,貓頭夜鷹
+Seaking,79.7,119,water,none,123.1,105.9,140,1825075,26.5,1500,Poison Jab,Drill Run,Icy Wind,7,7,3,50000,--,金魚王
+Turtonator,79.7,776,fire,dragon,114.2,153.0,112,1956666,25.0,1496,Incinerate,Dragon Pulse,Overheat,3,3,5,75000,--,爆焰龜獸
+Celesteela,79.6,797,steel,flying,119.6,119.0,131,1864503,18.0,1495,Air Slash,Body Slam,Iron Head,4,6,20,100000,--,鐵火輝夜
+Wormadam,79.6,413,bug,steel,105.2,150.9,134,2126928,42.5,1500,Confusion,Bug Buzz,Iron Head,5,5,1,10000,Trash,結草貴婦
+Blastoise,79.5,9,water,none,111.5,140.7,127,1992357,22.5,1492,Water Gun,Hydro Cannon,Ice Beam,14,19,3,10000,Shadow,水箭龜
+Gliscor,79.5,472,ground,flying,115.7,143.9,116,1930695,21.0,1496,Fury Cutter,Earthquake,Aerial Ace,17,10,5,75000,--,天蠍王
+Skeledirge,79.5,911,fire,ghost,121.2,109.2,139,1839651,18.5,1496,Incinerate,Shadow Ball,Disarming Voice,3,3,3,10000,--,骨紋巨聲鱷
+Vaporeon,79.5,134,water,none,119.0,97.2,163,1886587,17.5,1499,Water Gun,Aqua Tail,Last Resort,12,19,5,75000,--,水伊布
+Tentacruel,79.4,73,water,poison,110.1,139.9,132,2032660,23.5,1496,Poison Jab,Acid Spray,Scald,7,8,3,50000,Shadow,毒刺水母
+Aromatisse,79.3,683,fairy,none,116.5,108.0,153,1924550,24.0,1497,Charm,Moonblast,Thunderbolt,10,10,3,50000,--,芳香精
+Forretress,79.3,205,bug,steel,110.2,141.6,130,2028758,25.0,1496,Volt Switch,Earthquake,Mirror Shot,5,3,5,75000,--,佛烈托斯
+Furret,79.3,162,normal,none,116.1,105.4,158,1933854,34.5,1500,Sucker Punch,Brick Break,Dig,6,8,1,10000,--,大尾立
+Grimer,79.3,88,poison,dark,123.6,86.0,171,1818779,49.0,1500,Poison Jab,Crunch,Sludge Bomb,7,8,3,50000,Alolan,臭泥
+Grimer,79.3,88,poison,none,123.6,86.0,171,1818779,49.0,1500,Poison Jab,Mud Bomb,Sludge Bomb,6,8,3,50000,Shadow,臭泥
+Politoed,79.3,186,water,none,114.7,121.7,140,1954251,23.0,1498,Mud Shot,Weather Ball (Water),Earthquake,5,9,3,50000,--,蚊香蛙皇
+Sylveon,79.3,700,fairy,none,118.9,121.2,131,1888899,18.5,1498,Charm,Moonblast,Psyshock,10,8,5,75000,--,仙子伊布
+Gengar,79.2,94,ghost,poison,156.6,94.3,97,1433181,19.0,1500,Shadow Claw,Shadow Punch,Sludge Bomb,5,7,3,50000,--,耿鬼
+Lileep,79.2,345,rock,grass,100.8,138.6,151,2111110,50.0,1460,Bullet Seed,Grass Knot,Ancient Power,4,4,3,50000,--,觸手百合
+Raticate,79.2,20,dark,normal,107.5,130.7,148,2078413,37.0,1496,Quick Attack,Crunch,Hyper Beam,6,10,1,10000,Alolan,拉達
+Heatran,79.1,485,fire,steel,131.2,114.5,113,1697490,14.5,1498,Fire Spin,Magma Storm,Stone Edge,4,6,20,100000,Shadow,席多藍恩
+Lapras,79.1,131,water,ice,104.7,114.0,179,2135530,21.5,1497,Ice Shard,Surf,Skull Bash,5,8,5,75000,--,拉普拉斯
+Magmar,79.1,126,fire,none,136.6,107.5,112,1645117,23.5,1499,Karate Chop,Fire Punch,Scorching Sands,5,6,5,75000,Shadow,鴨嘴火獸
+Rapidash,79.1,78,fire,none,134.7,110.9,111,1658326,22.0,1498,Incinerate,Flame Charge,Wild Charge,3,3,3,50000,--,烈焰馬
+Victreebel,79.1,71,grass,poison,135.8,94.8,128,1648364,23.0,1500,Magical Leaf,Leaf Blade,Sludge Bomb,4,5,3,50000,--,大食花
+Granbull,79.0,210,fairy,none,135.3,87.7,139,1650182,22.0,1494,Charm,Close Combat,Crunch,8,8,3,50000,Shadow,布魯皇
+Shiftry,79.0,275,grass,dark,134.2,87.7,142,1670632,24.0,1497,Snarl,Leaf Blade,Foul Play,3,4,3,50000,Shadow,狡猾天狗
+Beedrill,78.9,15,bug,poison,127.6,106.2,129,1749201,31.0,1494,Poison Jab,X-Scissor,Drill Run,6,7,1,10000,Shadow,大針蜂
+Bellossom,78.9,182,grass,none,115.7,132.9,126,1937741,24.5,1499,Bullet Seed,Leaf Blade,Dazzling Gleam,3,6,3,50000,Shadow,美麗花
+Golem,78.9,76,rock,electric,125.2,121.7,117,1782513,19.0,1497,Rollout,Wild Charge,Rock Blast,4,4,1,10000,Alolan,隆隆岩
+Spinda,78.8,327,normal,none,110.1,110.1,142,1720678,50.0,1380,Sucker Punch,Icy Wind,Dig,7,8,3,50000,--,晃晃斑
+Wailmer,78.8,320,water,none,117.4,68.3,239,1916533,48.5,1500,Water Gun,Scald,Body Slam,17,12,1,10000,Shadow,吼吼鯨
+Barbaracle,78.7,689,rock,water,120.4,133.1,115,1841752,20.5,1492,Mud Slap,Cross Chop,Stone Edge,4,6,3,50000,--,龜足巨鎧
+Dugtrio,78.7,51,ground,steel,148.9,111.5,90,1494460,29.0,1497,Mud Slap,Mud Bomb,Iron Head,4,5,3,50000,Alolan,三地鼠
+Gyarados,78.7,130,water,flying,130.8,108.0,121,1708726,16.5,1498,Dragon Breath,Aqua Tail,Crunch,12,15,1,10000,--,暴鯉龍
+Litleo,78.7,667,fire,normal,121.1,106.1,143,1837354,49.0,1495,Incinerate,Flame Charge,Crunch,3,3,3,10000,--,小獅獅
+Lucario,78.7,448,fighting,steel,145.8,95.6,110,1532231,20.5,1494,Force Palm,Thunder Punch,Shadow Ball,4,6,5,75000,--,路卡利歐
+Staravia,78.7,397,normal,flying,131.9,91.6,135,1631281,50.0,1468,Quick Attack,Brave Bird,Fly,7,6,1,10000,Shadow,姆克鳥
+Bellibolt,78.6,939,electric,none,115.1,107.7,156,1934288,21.0,1492,Thunder Shock,Zap Cannon,Parabolic Charge,9,6,1,50000,--,電肚蛙
+Bellossom,78.6,182,grass,none,115.7,132.9,126,1937741,24.5,1499,Bullet Seed,Leaf Blade,Return,3,6,3,50000,--,美麗花
+Bewear,78.6,760,normal,fighting,130.4,85.6,154,1717970,18.0,1497,Shadow Claw,Superpower,Stomp,5,5,1,10000,--,穿著熊
+Charizard,78.6,6,fire,flying,132.2,108.3,117,1674892,19.0,1488,Fire Spin,Blast Burn,Dragon Claw,5,4,3,10000,Shadow,噴火龍
+Electrode,78.6,101,electric,grass,123.3,130.1,113,1812571,26.0,1495,Thunder Shock,Wild Charge,Swift,5,4,3,50000,Hisuian,頑皮雷彈
+Hippopotas,78.6,449,ground,none,115.3,111.1,152,1946522,49.0,1498,Sand Attack,Body Slam,Dig,9,13,3,50000,Shadow,沙河馬
+Snorlax,78.6,143,normal,none,108.4,101.7,187,2061936,17.5,1498,Lick,Body Slam,Superpower,12,14,5,75000,Shadow,卡比獸
+Druddigon,78.5,621,dragon,none,131.4,110.5,117,1699459,20.0,1498,Dragon Tail,Dragon Claw,Night Slash,4,4,5,75000,--,赤面龍
+Gliscor,78.5,472,ground,flying,115.7,143.9,116,1930695,21.0,1496,Fury Cutter,Earthquake,Aerial Ace,17,10,5,75000,Shadow,天蠍王
+Sandshrew,78.5,27,ice,steel,117.6,121.0,127,1807853,50.0,1462,Powder Snow,Night Slash,Blizzard,5,10,3,50000,Alolan,穿山鼠
+Staraptor,78.5,398,normal,flying,140.4,90.8,124,1581461,19.5,1492,Quick Attack,Fly,Close Combat,6,6,1,10000,--,姆克鷹
+Mantyke,78.4,458,water,flying,100.8,163.0,120,1972572,50.0,1411,Bubble,Aerial Ace,Water Pulse,4,5,5,10000,--,小球飛魚
+Obstagoon,78.4,862,dark,normal,112.6,126.7,138,1969669,21.0,1494,Counter,Cross Chop,Night Slash,6,6,3,10000,Shadow,堵攔熊
+Wailmer,78.4,320,water,none,117.4,68.3,239,1916533,48.5,1500,Water Gun,Scald,Body Slam,17,12,1,10000,--,吼吼鯨
+Frigibax,78.3,996,dragon,ice,125.2,84.9,149,1583298,50.0,1410,Dragon Breath,Avalanche,Dragon Claw,15,12,5,75000,--,涼脊龍
+Slurpuff,78.3,685,fairy,none,117.4,118.1,138,1912211,25.5,1499,Fairy Wind,Play Rough,Energy Ball,7,7,3,50000,--,胖甜妮
+Sneasler,78.3,903,fighting,poison,146.0,95.3,110,1529893,17.0,1495,Shadow Claw,Close Combat,Aerial Ace,6,5,5,75000,--,大狃拉
+Spritzee,78.3,682,fairy,none,105.0,107.6,168,1898008,50.0,1415,Charm,Thunderbolt,Draining Kiss,10,10,3,50000,--,粉香香
+Zapdos,78.3,145,electric,flying,136.2,104.7,115,1639560,15.5,1495,Thunder Shock,Drill Peck,Thunder,5,7,20,100000,--,閃電鳥
+Deoxys,78.2,386,psychic,none,101.0,221.5,98,2192628,23.5,1491,Counter,Psycho Boost,Thunderbolt,6,10,20,100000,Defense,代歐奇希斯
+Hypno,78.2,97,psychic,none,103.7,140.8,148,2160673,27.5,1499,Confusion,Shadow Ball,Thunder Punch,5,4,3,50000,--,引夢貘人
+Obstagoon,78.2,862,dark,normal,112.6,126.7,138,1969669,21.0,1494,Counter,Night Slash,Cross Chop,6,6,3,10000,--,堵攔熊
+Typhlosion,78.2,157,fire,none,132.2,108.3,117,1674892,19.0,1488,Incinerate,Blast Burn,Thunder Punch,3,2,3,10000,--,火爆獸
+Zangoose,78.2,335,normal,none,144.8,87.1,122,1539050,23.0,1494,Shadow Claw,Close Combat,Night Slash,6,5,3,50000,--,貓鼬斬
+Dugtrio,78.1,51,ground,none,136.4,120.5,99,1627049,41.5,1495,Mud Slap,Mud Bomb,Stone Edge,4,6,3,50000,Shadow,三地鼠
+Muk,78.1,89,poison,none,117.3,111.3,146,1906470,20.5,1497,Poison Jab,Thunder Punch,Dark Pulse,6,8,3,50000,Shadow,臭臭泥
+Rhyperior,78.1,464,ground,rock,126.8,105.5,132,1766090,15.0,1498,Mud Slap,Breaking Swipe,Rock Wrecker,4,5,3,50000,Shadow,超甲狂犀
+Vespiquen,78.1,416,bug,flying,109.1,143.3,131,2049009,28.5,1500,Poison Sting,X-Scissor,Power Gem,5,6,3,50000,--,蜂女王
+Dartrix,78.0,723,grass,flying,112.3,116.8,152,1993822,34.5,1498,Leafage,Brave Bird,Seed Bomb,8,7,3,10000,--,投羽梟
+Golett,78.0,622,ground,ghost,119.3,89.9,141,1512725,50.0,1344,Mud Slap,Shadow Punch,Brick Break,4,4,5,75000,--,泥偶小人
+Piloswine,78.0,221,ice,ground,121.1,98.2,155,1842165,24.0,1497,Powder Snow,Avalanche,High Horsepower,6,8,3,50000,Shadow,長毛豬
+Staraptor,78.0,398,normal,flying,140.4,90.8,124,1581461,19.5,1492,Quick Attack,Fly,Close Combat,6,6,1,10000,Shadow,姆克鷹
+Dugtrio,77.9,51,ground,none,136.4,120.5,99,1627049,41.5,1495,Mud Slap,Mud Bomb,Stone Edge,4,6,3,50000,--,三地鼠
+Farfetch'd,77.9,83,fighting,none,137.9,97.8,120,1618657,36.5,1494,Fury Cutter,Leaf Blade,Brave Bird,9,14,3,50000,Galarian,大蔥鴨
+Fraxure,77.9,611,dragon,none,145.5,89.3,119,1545235,24.5,1499,Dragon Tail,Dragon Claw,Aqua Tail,4,4,5,75000,--,斧牙龍
+Grimer,77.9,88,poison,dark,123.6,86.0,171,1818779,49.0,1500,Poison Jab,Crunch,Sludge Bomb,7,8,3,50000,Alolan,臭泥
+Grovyle,77.9,253,grass,none,137.4,101.7,117,1633904,37.5,1499,Quick Attack,Leaf Blade,Aerial Ace,5,5,3,10000,--,森林蜥蜴
+Kangaskhan,77.9,115,normal,none,115.9,112.8,148,1934823,22.0,1500,Mud Slap,Stomp,Crunch,4,5,3,50000,--,袋獸
+Passimian,77.9,766,fighting,none,129.9,100.5,132,1723475,18.5,1496,Counter,Brutal Swing,Brick Break,6,7,3,75000,--,投擲猴
+Bronzong,77.7,437,steel,psychic,111.3,151.8,119,2010401,25.5,1498,Confusion,Psyshock,Payback,4,5,3,50000,--,青銅鐘
+Shiftry,77.7,275,grass,dark,134.2,87.7,142,1670632,24.0,1497,Snarl,Leaf Blade,Foul Play,3,4,3,50000,--,狡猾天狗
+Ampharos,77.6,181,electric,none,127.4,106.8,129,1754935,19.5,1499,Volt Switch,Brutal Swing,Trailblaze,3,3,5,75000,Shadow,電龍
+Lileep,77.6,345,rock,grass,100.8,138.6,151,2111110,50.0,1460,Bullet Seed,Grass Knot,Ancient Power,4,4,3,50000,Shadow,觸手百合
+Claydol,77.5,344,ground,psychic,102.7,173.3,121,2153472,28.5,1488,Mud Slap,Ice Beam,Shadow Ball,6,6,3,50000,--,念力土偶
+Pidgeot,77.5,18,normal,flying,117.2,113.8,143,1905836,26.0,1494,Gust,Feather Dance,Brave Bird,5,5,1,10000,--,大比鳥
+Drifloon,77.4,425,ghost,flying,110.9,79.8,186,1646946,50.0,1353,Astonish,Icy Wind,Shadow Ball,5,6,5,75000,--,飄飄球
+Golem,77.4,76,rock,electric,125.2,121.7,117,1782513,19.0,1497,Rollout,Wild Charge,Rock Blast,4,4,1,10000,Alolan,隆隆岩
+Raikou,77.4,243,electric,none,130.9,110.1,118,1700490,16.0,1492,Thunder Shock,Wild Charge,Shadow Ball,5,7,20,100000,Shadow,雷公
+Amoonguss,77.3,591,grass,poison,110.4,102.0,181,2038411,27.0,1500,Astonish,Grass Knot,Foul Play,5,5,3,50000,Shadow,敗露球菇
+Dusclops,77.3,356,ghost,none,103.1,198.9,106,2173343,43.0,1498,Hex,Ice Punch,Poltergeist,4,7,3,50000,--,彷徨夜靈
+Hariyama,77.3,297,fighting,none,125.6,75.5,186,1764581,19.5,1492,Force Palm,Close Combat,Heavy Slam,5,5,3,50000,--,鐵掌力士
+Ivysaur,77.3,2,grass,poison,118.6,121.7,130,1876886,36.5,1493,Vine Whip,Power Whip,Sludge Bomb,7,7,3,10000,--,妙蛙草
+Haunter,77.2,93,ghost,poison,161.2,85.5,100,1378532,28.0,1493,Shadow Claw,Shadow Punch,Ice Punch,5,5,3,50000,--,鬼斯通
+Hitmontop,77.2,237,fighting,none,121.7,151.3,100,1841514,26.5,1500,Counter,Close Combat,Triple Axel,8,8,5,75000,--,戰舞郎
+Leafeon,77.2,470,grass,none,128.1,133.3,102,1742118,18.5,1496,Quick Attack,Leaf Blade,Last Resort,5,7,5,75000,--,葉伊布
+Primarina,77.2,730,water,fairy,131.9,116.8,110,1694382,17.5,1499,Charm,Disarming Voice,Hydro Cannon,8,7,3,10000,--,西獅海壬
+Snorlax,77.2,143,normal,none,108.4,101.7,187,2061936,17.5,1498,Lick,Body Slam,Superpower,12,14,5,75000,--,卡比獸
+Avalugg,77.1,713,ice,rock,117.0,134.7,121,1906728,16.0,1498,Powder Snow,Rock Slide,Icy Wind,6,6,3,50000,Hisuian,冰岩怪
+Dedenne,77.1,702,electric,fairy,124.2,108.7,133,1795844,30.5,1497,Thunder Shock,Parabolic Charge,Play Rough,6,7,3,50000,--,咚咚鼠
+Forretress,77.1,205,bug,steel,110.2,141.6,130,2028758,25.0,1496,Volt Switch,Earthquake,Mirror Shot,5,3,5,75000,Shadow,佛烈托斯
+Heatran,77.1,485,fire,steel,131.9,116.4,110,1689500,15.0,1494,Fire Spin,Magma Storm,Stone Edge,4,6,20,100000,--,席多藍恩
+Hippopotas,77.1,449,ground,none,115.3,111.1,152,1946522,49.0,1498,Sand Attack,Body Slam,Dig,9,13,3,50000,--,沙河馬
+Mienshao,77.1,620,fighting,none,156.5,84.8,106,1407427,20.0,1486,Force Palm,Brick Break,Brutal Swing,4,4,3,50000,--,師父鼬
+Togekiss,77.1,468,fairy,flying,124.8,125.3,114,1783452,16.5,1495,Charm,Ancient Power,Aura Sphere,8,10,3,50000,--,波克基斯
+Ampharos,77.0,181,electric,none,127.4,106.8,129,1754935,19.5,1499,Volt Switch,Brutal Swing,Trailblaze,3,3,5,75000,--,電龍
+Bruxish,77.0,779,water,psychic,137.3,100.4,118,1626064,23.5,1497,Confusion,Aqua Tail,Psychic Fangs,3,3,3,50000,--,磨牙彩皮魚
+Gardevoir,77.0,282,psychic,fairy,137.2,114.5,104,1633015,18.0,1498,Charm,Triple Axel,Shadow Ball,8,10,5,75000,Shadow,沙奈朵
+Linoone,77.0,264,normal,none,114.6,112.2,152,1953755,39.0,1497,Shadow Claw,Grass Knot,Dig,7,7,1,10000,--,直衝熊
+Mew,77.0,151,psychic,none,120.5,119.4,129,1855163,16.5,1498,Shadow Claw,Wild Charge,Surf,6,6,20,100000,--,夢幻
+Articuno,76.9,144,ice,flying,113.2,143.6,122,1983584,18.5,1500,Ice Shard,Icy Wind,Ancient Power,5,5,20,100000,--,急凍鳥
+Farfetch'd,76.9,83,normal,flying,116.8,109.2,131,1671469,50.0,1397,Fury Cutter,Leaf Blade,Aerial Ace,9,10,3,50000,--,大蔥鴨
+Golduck,76.9,55,water,none,125.5,112.2,127,1787063,22.5,1499,Water Gun,Cross Chop,Liquidation,12,15,3,50000,Shadow,哥達鴨
+Lapras,76.9,131,water,ice,104.7,114.0,179,2135530,21.5,1497,Ice Shard,Surf,Skull Bash,5,8,5,75000,Shadow,拉普拉斯
+Magmortar,76.9,467,fire,none,141.4,103.4,108,1578615,17.5,1500,Karate Chop,Fire Punch,Thunderbolt,5,7,5,75000,Shadow,鴨嘴炎獸
+Crocalor,76.8,910,fire,none,119.8,106.3,146,1858803,28.5,1496,Incinerate,Crunch,Flamethrower,3,3,3,10000,--,炙燙鱷
+Drifloon,76.7,425,ghost,flying,110.9,79.8,186,1646946,50.0,1353,Astonish,Icy Wind,Shadow Ball,5,6,5,75000,Shadow,飄飄球
+Conkeldurr,76.6,534,fighting,none,134.6,93.3,132,1657948,16.5,1495,Counter,Brutal Swing,Dynamic Punch,6,9,5,75000,Shadow,修建老匠
+Chansey,76.5,113,normal,none,63.0,120.2,421,3188219,50.0,1418,Zen Headbutt,Hyper Beam,Psychic,14,10,5,75000,--,吉利蛋
+Ledian,76.5,166,bug,flying,101.9,161.2,134,2201440,49.0,1500,Counter,Aerial Ace,Dynamic Punch,7,9,1,10000,--,安瓢蟲
+Rhydon,76.5,112,ground,rock,126.7,102.4,136,1765046,17.0,1498,Mud Slap,Breaking Swipe,Stone Edge,4,6,3,50000,Shadow,鑽角犀獸
+Shiinotic,76.5,756,grass,fairy,116.8,132.3,124,1915843,30.5,1497,Astonish,Seed Bomb,Moonblast,5,6,3,50000,--,燈罩夜菇
+Tyrunt,76.5,696,rock,dragon,127.6,106.3,129,1749486,39.5,1499,Dragon Tail,Dragon Claw,Ancient Power,4,5,5,75000,--,寶寶暴龍
+Jirachi,76.4,385,steel,psychic,120.5,119.4,129,1855163,16.5,1498,Confusion,Doom Desire,Psychic,4,5,20,100000,--,基拉祈
+Ledian,76.4,166,bug,flying,101.9,161.2,134,2201440,49.0,1500,Counter,Aerial Ace,Dynamic Punch,7,9,1,10000,Shadow,安瓢蟲
+Sandslash,76.4,28,ground,none,120.5,121.1,126,1837863,23.5,1493,Sand Attack,Scorching Sands,Night Slash,13,9,3,50000,--,穿山王
+Victini,76.4,494,psychic,fire,120.5,119.4,129,1855163,16.5,1498,Quick Attack,V-Create,Psychic,5,7,20,100000,--,比克提尼
+Lunatone,76.3,337,rock,psychic,119.8,108.8,143,1863825,23.5,1494,Psywave,Rock Slide,Moonblast,12,15,3,50000,--,月石
+Muk,76.3,89,poison,none,117.3,111.3,146,1906470,20.5,1497,Poison Jab,Thunder Punch,Dark Pulse,6,8,3,50000,--,臭臭泥
+Quilladin,76.3,651,grass,none,115.4,130.0,129,1935329,35.5,1495,Vine Whip,Body Slam,Energy Ball,5,7,3,10000,--,胖胖哈力
+Slowbro,76.3,80,poison,psychic,119.1,108.4,145,1871629,22.5,1493,Poison Jab,Scald,Brutal Swing,8,5,3,50000,Galarian,呆殼獸
+Vullaby,76.3,629,dark,flying,100.8,129.4,157,2048662,50.0,1437,Air Slash,Brave Bird,Foul Play,7,5,5,75000,--,禿鷹丫頭
+Avalugg,76.2,713,ice,none,112.9,142.5,124,1994682,17.5,1500,Ice Fang,Avalanche,Body Slam,9,7,3,50000,--,冰岩怪
+Crustle,76.2,558,bug,rock,120.9,134.1,114,1848465,22.0,1499,Fury Cutter,X-Scissor,Rock Slide,10,12,1,10000,Shadow,岩殿居蟹
+Excadrill,76.2,530,ground,steel,142.7,78.8,139,1561805,17.0,1494,Mud Slap,Drill Run,Rock Slide,5,5,3,50000,--,龍頭地鼠
+Kecleon,76.2,352,normal,none,115.6,142.2,117,1923248,27.5,1495,Sucker Punch,Aerial Ace,Ice Beam,6,8,5,75000,--,變隱龍
+Muk,76.2,89,poison,dark,117.3,111.3,146,1906470,20.5,1497,Poison Jab,Dark Pulse,Acid Spray,8,7,3,50000,Alolan,臭臭泥
+Excadrill,76.1,530,ground,steel,142.7,78.8,139,1561805,17.0,1494,Mud Slap,Drill Run,Rock Slide,5,5,3,50000,Shadow,龍頭地鼠
+Latios,76.1,381,dragon,psychic,138.4,112.9,103,1609480,14.5,1497,Dragon Breath,Dragon Claw,Luster Purge,12,20,20,100000,Shadow,拉帝歐斯
+Servine,76.1,496,grass,none,107.2,137.4,142,2092314,49.5,1500,Vine Whip,Grass Knot,Wrap,7,6,3,10000,--,青藤蛇
+Haxorus,76.0,612,dragon,none,151.1,95.7,102,1475018,15.0,1496,Dragon Tail,Breaking Swipe,Surf,4,5,5,75000,--,雙斧戰龍
+Hitmontop,76.0,237,fighting,none,121.7,151.3,100,1841514,26.5,1500,Counter,Close Combat,Triple Axel,8,8,5,75000,Shadow,戰舞郎
+Muk,76.0,89,poison,dark,117.3,111.3,146,1906470,20.5,1497,Poison Jab,Dark Pulse,Acid Spray,8,7,3,50000,Alolan,臭臭泥
+Uxie,76.0,480,psychic,none,102.0,176.8,122,2200329,22.5,1500,Confusion,Swift,Future Sight,3,6,20,100000,--,由克希
+Victreebel,76.0,71,grass,poison,135.8,94.8,128,1648364,23.0,1500,Magical Leaf,Leaf Blade,Acid Spray,4,5,3,50000,Shadow,大食花
+Girafarig,75.9,203,normal,psychic,129.1,102.7,129,1711052,27.0,1486,Confusion,Psychic Fangs,Trailblaze,3,4,3,50000,--,麒麟奇
+Golbat,75.9,42,poison,flying,118.7,113.7,140,1888899,29.0,1498,Wing Attack,Poison Fang,Shadow Ball,6,8,1,10000,Shadow,大嘴蝠
+Magmar,75.9,126,fire,none,136.6,107.5,112,1645117,23.5,1499,Karate Chop,Fire Punch,Scorching Sands,5,6,5,75000,--,鴨嘴火獸
+Poliwhirl,75.9,61,water,none,115.1,114.3,148,1947108,50.0,1500,Bubble,Scald,Mud Bomb,5,4,3,50000,Shadow,蚊香君
+Raichu,75.9,26,electric,psychic,136.2,111.7,108,1643875,24.5,1499,Volt Switch,Wild Charge,Trailblaze,3,3,1,10000,Alolan,雷丘
+Sceptile,75.9,254,grass,none,136.9,108.5,110,1633945,19.5,1497,Bullet Seed,Leaf Blade,Earthquake,3,5,3,10000,--,蜥蜴王
+Scyther,75.9,123,bug,flying,134.9,110.7,111,1657053,20.5,1496,Fury Cutter,Aerial Ace,X-Scissor,10,10,5,75000,Shadow,飛天螳螂
+Zygarde,75.9,718,dragon,ground,114.1,128.3,133,1947950,15.5,1494,Dragon Tail,Crunch,Earthquake,5,8,20,100000,50% Forme,基格爾德
+Galvantula,75.8,596,bug,electric,139.0,93.8,124,1615746,25.5,1499,Volt Switch,Discharge,Lunge,3,3,3,50000,--,電蜘蛛
+Incineroar,75.8,727,fire,dark,125.8,106.9,132,1775070,18.5,1498,Snarl,Darkest Lariat,Blast Burn,5,4,3,10000,--,熾焰咆哮虎
+Rhyperior,75.8,464,ground,rock,126.8,105.5,132,1766090,15.0,1498,Mud Slap,Breaking Swipe,Rock Wrecker,4,5,3,50000,--,超甲狂犀
+Electivire,75.7,466,electric,none,144.0,98.0,110,1552610,18.0,1498,Thunder Shock,Ice Punch,Wild Charge,5,5,5,75000,Shadow,電擊魔獸
+Melmetal,75.7,809,steel,none,121.5,107.8,141,1846977,15.5,1500,Thunder Shock,Superpower,Rock Slide,5,5,20,100000,--,美錄梅塔
+Swoobat,75.7,528,psychic,flying,126.9,100.9,138,1767259,35.5,1499,Confusion,Fly,Psychic Fangs,4,3,1,10000,--,心蝙蝠
+Vigoroth,75.7,288,normal,none,117.7,112.7,144,1909363,28.5,1499,Counter,Body Slam,Rock Slide,6,8,5,75000,--,過動猿
+Bayleef,75.6,153,grass,none,105.6,141.6,141,2107468,49.5,1494,Magical Leaf,Ancient Power,Energy Ball,5,6,3,10000,--,月桂葉
+Oinkologne,75.6,916,normal,none,118.1,102.8,156,1895471,21.0,1499,Tackle,Body Slam,Trailblaze,12,15,1,10000,--,飄香豚
+Golem,75.5,76,rock,ground,125.2,121.7,117,1782513,19.0,1497,Mud Slap,Stone Edge,Rock Blast,6,4,1,10000,Shadow,隆隆岩
+Metang,75.5,375,steel,psychic,108.9,145.5,129,2043486,35.0,1494,Metal Claw,Psyshock,Gyro Ball,7,9,5,75000,--,金屬怪
+Pumpkaboo,75.5,710,ghost,grass,111.8,113.4,141,1787612,50.0,1414,Astonish,Grass Knot,Foul Play,5,5,5,75000,Super,南瓜精
+Solrock,75.5,338,rock,psychic,119.8,108.8,143,1863825,23.5,1494,Psywave,Rock Slide,Psychic,12,14,3,50000,--,太陽岩
+Charizard,75.4,6,fire,flying,132.2,108.3,117,1674892,19.0,1488,Fire Spin,Blast Burn,Dragon Claw,5,4,3,10000,--,噴火龍
+Girafarig,75.4,203,normal,psychic,129.1,102.7,129,1711052,27.0,1486,Confusion,Psychic Fangs,Trailblaze,3,4,3,50000,Shadow,麒麟奇
+Hariyama,75.4,297,fighting,none,125.6,75.5,186,1764581,19.5,1492,Force Palm,Close Combat,Heavy Slam,5,5,3,50000,Shadow,鐵掌力士
+Ivysaur,75.4,2,grass,poison,120.3,121.1,128,1864071,37.5,1497,Vine Whip,Power Whip,Sludge Bomb,7,7,3,10000,Shadow,妙蛙草
+Metang,75.4,375,steel,psychic,108.9,145.5,129,2043486,35.0,1494,Metal Claw,Psyshock,Gyro Ball,7,9,5,75000,Shadow,金屬怪
+Toxtricity,75.4,849,electric,poison,140.8,94.3,119,1579507,21.0,1497,Poison Jab,Wild Charge,Discharge,7,7,5,75000,--,顫弦蠑螈
+Wobbuffet,75.4,202,psychic,none,63.0,101.7,333,2133829,50.0,1160,Counter,Return,Mirror Coat,12,10,3,50000,--,果然翁
+Aipom,75.3,190,normal,none,126.1,105.2,134,1778842,49.0,1500,Astonish,Swift,Aerial Ace,4,4,3,50000,Shadow,長尾怪手
+Cacturne,75.3,332,grass,dark,148.9,83.5,121,1505536,23.5,1498,Sucker Punch,Trailblaze,Dark Pulse,7,8,3,50000,Shadow,夢歌仙人掌
+Magneton,75.3,82,electric,steel,144.7,112.8,95,1550755,22.0,1500,Volt Switch,Magnet Bomb,Discharge,3,3,3,50000,Shadow,三合一磁怪
+Sneasel,75.3,215,fighting,poison,135.5,110.7,110,1649923,26.5,1499,Poison Jab,Close Combat,Aerial Ace,7,6,3,50000,Hisuian,狃拉
+Crustle,75.2,558,bug,rock,120.9,134.1,114,1848465,22.0,1499,Fury Cutter,X-Scissor,Rock Slide,10,12,1,10000,--,岩殿居蟹
+Raichu,75.2,26,electric,none,133.6,110.6,113,1669771,25.5,1495,Volt Switch,Wild Charge,Brick Break,3,3,1,10000,--,雷丘
+Sceptile,75.2,254,grass,none,136.9,108.5,110,1633945,19.5,1497,Bullet Seed,Leaf Blade,Earthquake,3,5,3,10000,Shadow,蜥蜴王
+Granbull,75.1,210,fairy,none,135.3,87.7,139,1650182,22.0,1494,Charm,Close Combat,Crunch,8,8,3,50000,--,布魯皇
+Ludicolo,75.1,272,water,grass,117.1,123.7,132,1912593,24.0,1497,Bubble,Scald,Leaf Storm,5,5,3,50000,--,樂天河童
+Sirfetch'd,75.1,865,fighting,none,145.9,107.4,98,1536689,18.5,1499,Counter,Leaf Blade,Night Slash,6,6,3,50000,--,蔥遊兵
+Sneasel,75.1,215,fighting,poison,135.5,110.7,110,1649923,26.5,1499,Poison Jab,Close Combat,Aerial Ace,7,6,3,50000,Hisuian,狃拉
+Blaziken,75.0,257,fire,fighting,144.4,90.8,118,1547820,19.0,1496,Fire Spin,Blaze Kick,Blast Burn,4,5,3,10000,Shadow,火焰雞
+Galvantula,75.0,596,bug,electric,139.0,93.8,124,1615746,25.5,1499,Volt Switch,Discharge,Lunge,3,3,3,50000,Shadow,電蜘蛛
+Graveler,75.0,75,rock,electric,123.4,124.9,118,1819319,30.5,1500,Volt Switch,Stone Edge,Rock Blast,4,3,1,10000,Alolan,隆隆石
+Hypno,75.0,97,psychic,none,103.7,140.8,148,2160673,27.5,1499,Confusion,Thunder Punch,Fire Punch,4,4,3,50000,Shadow,引夢貘人
+Magcargo,75.0,219,fire,rock,110.2,157.9,116,2017737,36.5,1492,Incinerate,Rock Tomb,Overheat,3,3,1,10000,--,熔岩蝸牛
+Poliwhirl,75.0,61,water,none,115.1,114.3,148,1947108,50.0,1500,Bubble,Scald,Mud Bomb,5,4,3,50000,--,蚊香君
+Cryogonal,74.9,615,ice,none,116.5,136.2,121,1919929,20.0,1497,Ice Shard,Triple Axel,Night Slash,5,4,5,75000,--,幾何雪花
+Suicune,74.9,245,water,none,107.4,141.9,137,2089025,18.5,1499,Snarl,Ice Beam,Scald,5,4,20,100000,--,水君
+Alomomola,74.8,594,water,none,96.7,98.8,240,2292831,26.0,1490,Waterfall,Hydro Pump,Blizzard,10,10,5,75000,--,保母曼波
+Articuno,74.8,144,ice,flying,113.2,143.6,122,1983584,18.5,1500,Ice Shard,Icy Wind,Ancient Power,5,5,20,100000,Shadow,急凍鳥
+Grovyle,74.8,253,grass,none,137.4,101.7,117,1633904,37.5,1499,Bullet Seed,Leaf Blade,Aerial Ace,3,4,3,10000,Shadow,森林蜥蜴
+Magmortar,74.8,467,fire,none,141.4,103.4,108,1578615,17.5,1500,Karate Chop,Fire Punch,Thunderbolt,5,7,5,75000,--,鴨嘴炎獸
+Rufflet,74.8,627,normal,flying,126.3,91.1,153,1759870,46.0,1492,Wing Attack,Brave Bird,Fly,8,7,5,75000,--,毛頭小鷹
+Golbat,74.7,42,poison,flying,118.7,113.7,140,1888899,29.0,1498,Wing Attack,Poison Fang,Shadow Ball,6,8,1,10000,--,大嘴蝠
+Haunter,74.7,93,ghost,poison,161.2,85.5,100,1378532,28.0,1493,Shadow Claw,Ice Punch,Shadow Ball,5,7,3,50000,Shadow,鬼斯通
+Milotic,74.7,350,water,none,113.2,132.2,132,1974479,18.5,1495,Dragon Tail,Surf,Blizzard,5,9,5,75000,--,美納斯
+Raikou,74.7,243,electric,none,130.9,110.1,118,1700490,16.0,1492,Thunder Shock,Wild Charge,Shadow Ball,5,7,20,100000,--,雷公
+Tangrowth,74.7,465,grass,none,121.8,112.0,135,1842421,18.5,1498,Vine Whip,Power Whip,Rock Slide,7,6,3,50000,Shadow,巨蔓藤
+Probopass,74.6,476,rock,steel,96.8,200.0,119,2305422,28.0,1497,Spark,Rock Slide,Zap Cannon,7,12,3,50000,--,大朝北鼻
+Vikavolt,74.6,738,bug,electric,146.4,94.4,111,1534869,17.5,1500,Volt Switch,X-Scissor,Fly,3,3,1,10000,--,鍬農炮蟲
+Rhyhorn,74.5,111,ground,rock,113.4,110.2,158,1974352,38.5,1499,Mud Slap,Stomp,Horn Attack,4,4,3,50000,Shadow,獨角犀牛
+Castform,74.4,351,fire,none,113.4,119.6,146,1979669,38.5,1499,Ember,Weather Ball (Fire),Solar Beam,6,14,5,75000,Sunny,飄浮泡泡
+Palossand,74.4,770,ghost,ground,116.6,120.4,136,1909914,23.0,1494,Astonish,Scorching Sands,Shadow Ball,5,6,3,50000,--,噬沙堡爺
+Tangrowth,74.4,465,grass,none,121.8,112.0,135,1842421,18.5,1498,Vine Whip,Power Whip,Rock Slide,7,6,3,50000,--,巨蔓藤
+Castform,74.3,351,normal,none,113.4,119.6,146,1979669,38.5,1499,Hex,Weather Ball (Rock),Energy Ball,3,5,5,75000,--,飄浮泡泡
+Conkeldurr,74.3,534,fighting,none,134.6,93.3,132,1657948,16.5,1495,Counter,Brutal Swing,Dynamic Punch,6,9,5,75000,--,修建老匠
+Golduck,74.3,55,water,none,125.5,112.2,127,1787063,22.5,1499,Water Gun,Cross Chop,Liquidation,12,15,3,50000,--,哥達鴨
+Buzzwole,74.2,794,bug,fighting,129.3,112.7,119,1735016,16.0,1498,Counter,Superpower,Lunge,7,8,20,100000,--,爆肌蚊
+Purugly,74.2,432,normal,none,125.5,105.5,133,1762021,28.5,1489,Shadow Claw,Aerial Ace,Thunder,5,8,3,50000,Shadow,東施喵
+Rhydon,74.2,112,ground,rock,126.7,102.4,136,1765046,17.0,1498,Mud Slap,Breaking Swipe,Stone Edge,4,6,3,50000,--,鑽角犀獸
+Aipom,74.1,190,normal,none,126.1,105.2,134,1778842,49.0,1500,Astonish,Swift,Aerial Ace,4,4,3,50000,--,長尾怪手
+Lopunny,74.1,428,normal,none,112.1,146.4,121,1985734,27.5,1493,Double Kick,Triple Axel,Focus Blast,4,7,3,50000,--,長耳兔
+Magneton,74.1,82,electric,steel,144.7,112.8,95,1550755,22.0,1500,Volt Switch,Discharge,Magnet Bomb,3,3,3,50000,--,三合一磁怪
+Pinsir,74.1,127,bug,none,141.3,111.5,101,1591266,18.5,1500,Fury Cutter,Close Combat,X-Scissor,12,10,5,75000,Shadow,凱羅斯
+Latios,74.0,381,dragon,psychic,138.4,112.9,103,1609480,14.5,1497,Dragon Breath,Dragon Claw,Luster Purge,12,20,20,100000,--,拉帝歐斯
+Samurott,74.0,503,water,dark,133.2,95.6,132,1680851,20.0,1496,Fury Cutter,Dark Pulse,Icy Wind,13,12,3,10000,Hisuian,大劍鬼
+Drilbur,73.9,529,ground,none,139.5,81.9,141,1610077,49.0,1499,Mud Slap,Drill Run,Rock Tomb,5,6,3,50000,--,螺釘地鼠
+Palpitoad,73.9,536,water,ground,116.6,101.6,162,1919059,48.5,1497,Mud Shot,Earth Power,Water Pulse,7,7,3,50000,--,藍蟾蜍
+Magnemite,73.8,81,electric,steel,148.7,113.4,89,1501640,50.0,1495,Volt Switch,Magnet Bomb,Discharge,3,3,3,50000,Shadow,小磁怪
+Pidgeot,73.8,18,normal,flying,117.2,113.8,143,1905836,26.0,1494,Gust,Brave Bird,Aerial Ace,5,4,1,10000,Shadow,大比鳥
+Bombirdier,73.7,962,flying,dark,128.0,115.3,118,1741817,22.5,1496,Wing Attack,Fly,Payback,7,9,5,75000,--,下石鳥
+Glalie,73.7,362,ice,none,115.2,120.1,140,1937229,27.0,1498,Ice Shard,Avalanche,Shadow Ball,5,6,3,50000,--,冰鬼護
+Krookodile,73.7,553,ground,dark,133.9,94.8,132,1675322,18.5,1498,Mud Slap,Crunch,Earthquake,5,7,5,75000,--,流氓鱷
+Purugly,73.7,432,normal,none,125.5,105.5,133,1762021,28.5,1489,Shadow Claw,Aerial Ace,Return,5,9,3,50000,--,東施喵
+Rayquaza,73.7,384,dragon,flying,146.5,92.0,113,1522152,14.0,1496,Dragon Tail,Breaking Swipe,Dragon Ascent,4,8,20,100000,--,烈空坐
+Stoutland,73.7,508,normal,none,125.8,114.7,124,1788973,19.0,1500,Sand Attack,Wild Charge,Crunch,12,12,1,10000,--,長毛狗
+Cacturne,73.6,332,grass,dark,148.9,83.5,121,1505536,23.5,1498,Sucker Punch,Trailblaze,Dark Pulse,7,8,3,50000,--,夢歌仙人掌
+Dolliv,73.5,929,grass,normal,119.3,121.8,129,1875490,50.0,1498,Magical Leaf,Earth Power,Trailblaze,6,5,3,50000,--,奧利紐
+Graveler,73.5,75,rock,electric,122.9,127.3,117,1831093,30.0,1500,Volt Switch,Stone Edge,Rock Blast,4,3,1,10000,Alolan,隆隆石
+Kricketune,73.5,402,bug,none,127.7,88.0,155,1742826,38.0,1492,Fury Cutter,X-Scissor,Aerial Ace,10,10,1,10000,--,音箱蟀
+Mamoswine,73.5,473,ice,ground,136.2,87.4,137,1630185,16.5,1491,Powder Snow,Avalanche,High Horsepower,6,8,3,50000,--,象牙豬
+Mewtwo,73.5,150,psychic,none,148.4,94.4,108,1512714,13.0,1500,Psycho Cut,Psystrike,Thunderbolt,5,7,20,100000,Shadow,超夢
+Naganadel,73.5,804,poison,dragon,149.2,97.2,103,1494370,17.5,1500,Poison Jab,Dragon Claw,Sludge Bomb,5,8,20,100000,--,四顎針龍
+Pyroar,73.5,668,fire,normal,135.0,98.0,125,1653456,20.0,1496,Incinerate,Flame Charge,Dark Pulse,3,3,3,10000,--,火炎獅
+Sandshrew,73.5,27,ice,steel,117.6,121.0,127,1807853,50.0,1462,Powder Snow,Night Slash,Blizzard,5,10,3,50000,Alolan,穿山鼠
+Suicune,73.5,245,water,none,107.4,141.9,137,2089025,18.5,1499,Snarl,Ice Beam,Scald,5,4,20,100000,Shadow,水君
+Misdreavus,73.4,200,ghost,none,124.1,119.0,122,1801213,29.5,1498,Psywave,Dark Pulse,Shadow Sneak,13,12,3,50000,--,夢妖
+Drilbur,73.3,529,ground,none,139.5,81.9,141,1610077,49.0,1499,Mud Slap,Drill Run,Rock Tomb,5,6,3,50000,Shadow,螺釘地鼠
+Pawniard,73.3,624,dark,steel,132.0,107.8,118,1678084,49.0,1492,Fury Cutter,Night Slash,X-Scissor,9,10,5,75000,--,駒刀小兵
+Bayleef,73.2,153,grass,none,105.6,141.6,141,2107468,49.5,1494,Magical Leaf,Ancient Power,Energy Ball,5,6,3,10000,Shadow,月桂葉
+Mismagius,73.2,429,ghost,none,133.8,120.8,104,1680621,21.5,1499,Psywave,Shadow Ball,Dark Pulse,14,13,3,50000,--,夢妖魔
+Prinplup,73.2,394,water,none,119.1,116.0,136,1878103,37.0,1500,Bubble,Icy Wind,Hydro Pump,5,7,3,10000,--,波皇子
+Pumpkaboo,73.2,710,ghost,grass,113.4,115.1,133,1736900,50.0,1406,Astonish,Grass Knot,Foul Play,5,5,5,75000,Large,南瓜精
+Armarouge,73.1,936,fire,psychic,133.6,110.6,114,1684722,17.5,1500,Incinerate,Psyshock,Flame Charge,3,3,5,50000,--,紅蓮鎧騎
+Crawdaunt,73.1,342,water,dark,144.5,96.9,110,1540695,22.5,1497,Snarl,Night Slash,Scald,3,4,3,50000,Shadow,鐵螯龍蝦
+Croconaw,73.1,159,water,none,118.8,118.8,134,1891327,35.0,1499,Water Gun,Crunch,Ice Punch,15,14,3,10000,Shadow,藍鱷
+Golem,73.1,76,rock,ground,125.2,121.7,117,1782513,19.0,1497,Mud Slap,Stone Edge,Rock Blast,6,4,1,10000,--,隆隆岩
+Linoone,73.1,264,dark,normal,114.6,112.2,152,1953755,39.0,1497,Snarl,Body Slam,Dig,3,4,1,10000,Galarian,直衝熊
+Lumineon,73.1,457,water,none,109.5,137.2,136,2042625,33.0,1497,Water Gun,Water Pulse,Silver Wind,19,15,3,50000,--,霓虹魚
+Maushold,73.1,925,normal,none,117.3,123.7,132,1915269,29.0,1500,Mud Shot,Swift,Crunch,5,6,1,10000,--,一家鼠
+Nidorino,73.1,33,poison,none,124.2,103.7,140,1803300,46.5,1500,Poison Sting,Sludge Bomb,Dig,6,6,3,50000,Shadow,尼多力諾
+Gourgeist,73.0,711,ghost,grass,116.6,136.9,121,1930877,22.5,1500,Hex,Seed Bomb,Shadow Ball,4,5,5,75000,Large,南瓜怪人
+Ho-Oh,73.0,250,fire,flying,123.6,128.2,114,1806501,14.5,1500,Incinerate,Brave Bird,Earthquake,3,4,20,100000,--,鳳王
+Scolipede,72.9,545,bug,poison,132.6,121.1,105,1686037,23.0,1495,Poison Jab,X-Scissor,Sludge Bomb,6,8,1,10000,--,蜈蚣王
+Blaziken,72.8,257,fire,fighting,144.4,90.8,118,1547820,19.0,1496,Fire Spin,Blaze Kick,Blast Burn,4,5,3,10000,--,火焰雞
+Houndstone,72.8,972,ghost,none,121.0,131.2,117,1857323,22.5,1500,Lick,Psychic Fangs,Shadow Ball,12,19,3,50000,--,墓揚犬
+Krokorok,72.8,552,ground,dark,133.6,87.4,142,1658012,50.0,1492,Mud Slap,Crunch,Earthquake,5,7,5,75000,--,混混鱷
+Gardevoir,72.7,282,psychic,fairy,137.2,114.5,104,1633015,18.0,1498,Charm,Triple Axel,Shadow Ball,8,10,5,75000,--,沙奈朵
+Gourgeist,72.7,711,ghost,grass,115.8,128.8,130,1939976,21.5,1499,Hex,Seed Bomb,Shadow Ball,4,5,5,75000,Super,南瓜怪人
+Grotle,72.7,388,grass,none,118.3,116.1,138,1895093,30.5,1497,Razor Leaf,Body Slam,Energy Ball,9,14,3,10000,Shadow,樹林龜
+Salamence,72.7,373,dragon,flying,142.9,92.6,117,1548425,14.5,1490,Dragon Tail,Fly,Outrage,5,7,5,75000,Shadow,暴飛龍
+Scolipede,72.7,545,bug,poison,132.6,121.1,105,1686037,23.0,1495,Poison Jab,X-Scissor,Sludge Bomb,6,8,1,10000,Shadow,蜈蚣王
+Eelektross,72.6,604,electric,none,134.4,98.0,127,1672478,20.0,1500,Volt Switch,Dragon Claw,Thunderbolt,3,4,1,10000,--,麻麻鰻魚王
+Magnemite,72.6,81,electric,steel,148.7,113.4,89,1501640,50.0,1495,Volt Switch,Magnet Bomb,Discharge,3,3,3,50000,--,小磁怪
+Durant,72.5,632,bug,steel,135.9,121.2,100,1647192,21.0,1499,Metal Claw,X-Scissor,Stone Edge,6,8,3,50000,--,鐵蟻
+Hitmonlee,72.5,106,fighting,none,142.5,121.4,91,1573887,21.5,1497,Double Kick,Close Combat,Blaze Kick,4,4,5,75000,--,飛腿郎
+Kingdra,72.5,230,water,dragon,121.8,126.1,119,1828072,21.0,1498,Dragon Breath,Outrage,Octazooka,20,17,3,50000,--,刺龍王
+Luxray,72.5,405,electric,none,138.0,99.0,118,1611912,19.0,1496,Spark,Wild Charge,Psychic Fangs,7,5,5,75000,--,倫琴貓
+Nidorino,72.5,33,poison,none,124.2,103.7,140,1803300,46.5,1500,Poison Sting,Sludge Bomb,Dig,6,6,3,50000,--,尼多力諾
+Seviper,72.5,336,poison,none,138.8,89.5,130,1616076,27.0,1500,Poison Jab,Poison Fang,Crunch,6,7,3,50000,--,飯匙蛇
+Shelgon,72.5,372,dragon,none,123.3,118.4,123,1795453,27.5,1493,Dragon Breath,Flamethrower,Twister,19,15,5,75000,--,甲殼龍
+Torkoal,72.5,324,fire,none,107.6,151.3,127,2067715,27.0,1491,Fire Spin,Overheat,Earthquake,6,7,3,50000,--,煤炭龜
+Corsola,72.4,222,water,rock,109.3,141.6,133,2057200,47.5,1500,Bubble,Power Gem,Rock Blast,5,4,3,50000,--,太陽珊瑚
+Electivire,72.4,466,electric,none,144.0,98.0,110,1552610,18.0,1498,Thunder Shock,Ice Punch,Wild Charge,5,5,5,75000,--,電擊魔獸
+Gloom,72.4,44,grass,poison,122.6,114.9,130,1830873,37.5,1500,Razor Leaf,Sludge Bomb,Petal Blizzard,13,17,3,50000,Shadow,臭臭花
+Mamoswine,72.4,473,ice,ground,136.2,87.4,137,1630185,16.5,1491,Powder Snow,Avalanche,High Horsepower,6,8,3,50000,Shadow,象牙豬
+Meowscarada,72.4,908,grass,dark,141.6,95.0,118,1586931,20.0,1500,Leafage,Night Slash,Grass Knot,5,8,3,10000,--,魔幻假面喵
+Rhyhorn,72.4,111,ground,rock,113.4,110.2,158,1974352,38.5,1499,Mud Slap,Stomp,Bulldoze,4,6,3,50000,--,獨角犀牛
+Falinks,72.3,870,fighting,none,128.2,119.8,113,1735815,23.5,1494,Counter,Superpower,Megahorn,7,10,5,75000,--,列陣兵
+Glalie,72.2,362,ice,none,115.2,120.1,140,1937229,27.0,1498,Ice Shard,Avalanche,Shadow Ball,5,6,3,50000,Shadow,冰鬼護
+Misdreavus,72.2,200,ghost,none,124.1,119.0,122,1801213,29.5,1498,Astonish,Dark Pulse,Shadow Sneak,5,5,3,50000,Shadow,夢妖
+Scyther,72.2,123,bug,flying,134.9,110.7,111,1657053,20.5,1496,Fury Cutter,Aerial Ace,X-Scissor,10,10,5,75000,--,飛天螳螂
+Bouffalant,72.1,626,normal,none,118.9,115.9,136,1873804,20.0,1496,Mud Shot,Stomp,Megahorn,5,7,3,50000,--,爆炸頭水牛
+Vileplume,72.1,45,grass,poison,129.1,110.9,121,1732053,22.0,1498,Razor Leaf,Sludge Bomb,Moonblast,13,15,3,50000,Shadow,霸王花
+Ceruledge,72.0,937,fire,ghost,136.9,114.0,105,1638875,17.5,1498,Incinerate,Shadow Ball,Flame Charge,3,3,5,50000,--,蒼炎刃鬼
+Hitmonlee,72.0,106,fighting,none,142.5,121.4,91,1573887,21.5,1497,Double Kick,Close Combat,Blaze Kick,4,4,5,75000,Shadow,飛腿郎
+Ho-Oh,72.0,250,fire,flying,123.6,128.2,114,1806501,14.5,1500,Incinerate,Brave Bird,Earthquake,3,4,20,100000,Shadow,鳳王
+Vanillish,72.0,583,ice,none,124.1,119.3,122,1805667,41.0,1499,Astonish,Icy Wind,Signal Beam,5,6,3,50000,--,多多冰
+Dusclops,71.9,356,ghost,none,103.1,198.9,106,2173343,43.0,1498,Hex,Ice Punch,Poltergeist,4,7,3,50000,Shadow,彷徨夜靈
+Herdier,71.9,507,normal,none,119.7,110.9,141,1871188,41.5,1497,Sand Attack,Dig,Thunderbolt,13,14,1,10000,--,哈約克
+Probopass,71.9,476,rock,steel,97.4,197.6,119,2289182,27.5,1493,Spark,Rock Slide,Zap Cannon,7,12,3,50000,Shadow,大朝北鼻
+Cubone,71.8,104,ground,none,88.2,133.6,127,1497128,50.0,1152,Mud Slap,Bone Club,Dig,4,5,3,50000,Shadow,卡拉卡拉
+Magby,71.8,240,fire,none,139.5,95.8,120,1603478,50.0,1496,Karate Chop,Fire Punch,Brick Break,5,5,5,10000,--,鴨嘴寶寶
+Seismitoad,71.8,537,water,ground,120.3,101.5,152,1856073,22.0,1498,Mud Shot,Earth Power,Sludge Bomb,7,7,3,50000,--,蟾蜍王
+Basculin,71.7,550,water,none,134.0,96.5,129,1667480,27.0,1495,Water Gun,Aqua Tail,Muddy Water,12,12,1,10000,--,野蠻鱸魚
+Gourgeist,71.7,711,ghost,grass,117.0,153.4,106,1903085,24.5,1495,Hex,Seed Bomb,Shadow Ball,4,5,5,75000,Small,南瓜怪人
+Hitmonchan,71.7,107,fighting,none,128.2,137.3,98,1725104,23.5,1490,Counter,Ice Punch,Thunder Punch,7,7,5,75000,Shadow,快拳郎
+Huntail,71.7,367,water,none,131.5,126.3,102,1694679,24.0,1498,Water Gun,Aqua Tail,Crunch,12,15,3,50000,--,獵斑魚
+Salamence,71.7,373,dragon,flying,142.9,92.6,117,1548425,14.5,1490,Dragon Tail,Fly,Outrage,5,7,5,75000,--,暴飛龍
+Gourgeist,71.6,711,ghost,grass,116.6,147.0,112,1919131,23.5,1500,Hex,Seed Bomb,Shadow Ball,4,5,5,75000,Average,南瓜怪人
+Hatterene,71.6,858,psychic,fairy,144.0,116.5,93,1559786,20.0,1500,Charm,Psyshock,Power Whip,8,9,5,50000,--,布莉姆溫
+Pinsir,71.6,127,bug,none,141.3,111.5,101,1591266,18.5,1500,Fury Cutter,Close Combat,X-Scissor,12,10,5,75000,--,凱羅斯
+Escavalier,71.5,589,bug,steel,133.9,116.8,107,1673454,19.5,1499,Counter,Drill Run,Megahorn,8,10,3,50000,--,騎士蝸牛
+Revavroom,71.5,966,steel,poison,135.7,106.6,114,1648064,19.0,1499,Poison Jab,Overheat,Acid Spray,8,7,3,50000,--,普隆隆姆
+Roserade,71.5,407,grass,poison,143.1,114.9,95,1561844,18.5,1497,Bullet Seed,Weather Ball (Fire),Leaf Storm,3,5,3,50000,--,羅絲雷朵
+Torterra,71.5,389,grass,ground,120.5,117.6,131,1857185,19.0,1496,Razor Leaf,Frenzy Plant,Stone Edge,12,14,3,10000,Shadow,土台龜
+Wailord,71.5,321,water,none,119.6,66.8,235,1876670,25.0,1500,Water Gun,Surf,Scald,15,17,1,10000,--,吼鯨王
+Carnivine,71.4,455,grass,none,130.2,101.2,130,1712621,25.5,1498,Vine Whip,Power Whip,Crunch,7,6,5,75000,--,尖牙籠
+Floette,71.3,670,fairy,none,114.3,133.7,128,1955261,44.0,1499,Vine Whip,Dazzling Gleam,Psychic,9,7,3,50000,--,花葉蒂
+Lairon,71.3,305,steel,rock,114.5,142.8,120,1962204,28.0,1500,Metal Claw,Rock Slide,Body Slam,7,5,1,10000,Shadow,可多拉
+Pumpkaboo,71.3,710,ghost,grass,114.3,116.0,126,1669772,50.0,1381,Astonish,Grass Knot,Foul Play,5,5,5,75000,Average,南瓜精
+Buneary,71.2,427,normal,none,121.8,100.8,135,1658639,50.0,1423,Quick Attack,Swift,Fire Punch,5,5,3,50000,--,捲捲耳
+Wartortle,71.2,8,water,none,107.9,137.8,139,2067932,48.0,1496,Water Gun,Ice Beam,Hydro Pump,19,25,3,10000,--,卡咪龜
+Armaldo,71.1,348,rock,bug,133.3,110.9,113,1670643,19.5,1497,Fury Cutter,Rock Blast,Liquidation,10,12,3,50000,Shadow,太古盔甲
+Cloyster,71.1,91,water,ice,119.7,166.0,94,1867851,22.0,1499,Ice Shard,Icy Wind,Liquidation,5,5,3,50000,--,刺甲貝
+Crawdaunt,71.1,342,water,dark,144.5,96.9,110,1540695,22.5,1497,Snarl,Night Slash,Scald,3,4,3,50000,--,鐵螯龍蝦
+Fletchinder,71.1,662,fire,flying,123.0,103.2,142,1801392,47.0,1492,Ember,Fly,Aerial Ace,8,7,1,10000,--,火箭雀
+Frillish,71.1,592,water,ghost,109.2,125.2,135,1846427,50.0,1421,Bubble,Night Shade,Ice Beam,5,5,3,50000,--,輕飄飄
+Electabuzz,71.0,125,electric,none,132.8,111.4,114,1685681,23.5,1500,Thunder Shock,Thunder Punch,Thunderbolt,5,7,5,75000,Shadow,電擊獸
+Luxray,70.9,405,electric,none,138.0,99.0,118,1611912,19.0,1496,Spark,Wild Charge,Psychic Fangs,7,5,5,75000,Shadow,倫琴貓
+Tangela,70.9,114,grass,none,125.0,121.7,117,1778920,24.5,1491,Vine Whip,Grass Knot,Sludge Bomb,7,7,3,50000,--,蔓藤怪
+Croconaw,70.8,159,water,none,118.8,118.8,134,1891327,35.0,1499,Water Gun,Crunch,Ice Punch,15,14,3,10000,--,藍鱷
+Shellos,70.8,422,water,none,99.2,100.8,166,1659740,50.0,1284,Mud Slap,Mud Bomb,Body Slam,4,4,3,50000,--,無殼海兔
+Kleavor,70.7,900,bug,rock,144.2,105.1,102,1545034,17.5,1498,Quick Attack,X-Scissor,Stone Edge,5,7,5,75000,--,劈斧螳螂
+Mismagius,70.7,429,ghost,none,133.8,120.8,104,1680621,21.5,1499,Psywave,Shadow Ball,Dark Pulse,14,13,3,50000,Shadow,夢妖魔
+Wailord,70.7,321,water,none,119.6,66.8,235,1876670,25.0,1500,Water Gun,Surf,Scald,15,17,1,10000,Shadow,吼鯨王
+Kingdra,70.6,230,water,dragon,121.8,126.1,119,1828072,21.0,1498,Dragon Breath,Outrage,Octazooka,20,17,3,50000,Shadow,刺龍王
+Parasect,70.6,47,bug,grass,124.2,118.3,122,1792012,30.5,1495,Fury Cutter,X-Scissor,Cross Poison,10,9,3,50000,--,派拉斯特
+Drampa,70.5,780,normal,dragon,136.8,104.2,114,1625878,19.0,1492,Dragon Breath,Fly,Outrage,15,20,5,75000,--,老翁龍
+Gurdurr,70.5,533,fighting,none,124.8,99.8,143,1781718,25.5,1491,Poison Jab,Brick Break,Stone Edge,6,8,5,75000,Shadow,鐵骨土人
+Hitmonchan,70.5,107,fighting,none,128.2,137.3,98,1725104,23.5,1490,Counter,Ice Punch,Thunder Punch,7,7,5,75000,--,快拳郎
+Minun,70.5,312,electric,none,116.8,126.8,129,1909761,37.0,1493,Quick Attack,Thunderbolt,Grass Knot,7,7,3,50000,--,負電拍拍
+Swanna,70.4,581,water,flying,129.3,99.7,134,1727466,26.5,1498,Water Gun,Fly,Ice Beam,15,19,3,50000,Shadow,舞天鵝
+Vibrava,70.4,329,ground,dragon,125.2,95.8,127,1523223,50.0,1384,Dragon Breath,Sand Tomb,Bug Buzz,14,20,5,75000,Shadow,超音波幼蟲
+Chandelure,70.3,609,ghost,fire,151.4,106.9,91,1472749,16.5,1498,Incinerate,Flame Charge,Shadow Ball,3,3,5,75000,Shadow,水晶燈火靈
+Gigalith,70.3,526,rock,none,127.2,118.4,116,1747772,17.0,1492,Mud Slap,Meteor Beam,Superpower,6,4,3,50000,Shadow,龐岩怪
+Slowking,70.3,199,water,psychic,113.4,120.9,143,1961133,22.0,1493,Water Gun,Surf,Psychic,15,19,3,50000,--,呆呆王
+Cloyster,70.2,91,water,ice,119.7,166.0,94,1867851,22.0,1499,Ice Shard,Icy Wind,Liquidation,5,5,3,50000,Shadow,刺甲貝
+Darmanitan,70.2,555,fire,none,151.3,71.4,137,1480445,18.0,1497,Incinerate,Rock Slide,Overheat,3,3,3,50000,Standard,達摩狒狒
+Linoone,70.2,264,dark,normal,114.6,112.2,152,1953755,39.0,1497,Snarl,Body Slam,Dig,3,4,1,10000,Galarian,直衝熊
+Mankey,70.2,56,fighting,none,137.0,81.5,113,1261556,50.0,1317,Karate Chop,Cross Chop,Brick Break,4,5,3,50000,Shadow,猴怪
+Slowbro,70.2,80,water,psychic,113.4,120.9,143,1961133,22.0,1493,Water Gun,Surf,Ice Beam,15,19,3,50000,--,呆殼獸
+Electrode,70.1,101,electric,none,123.1,127.2,116,1816610,26.5,1496,Volt Switch,Discharge,Foul Play,3,3,3,50000,--,頑皮雷彈
+Porygon,70.1,137,normal,none,120.8,114.7,134,1856061,35.5,1500,Quick Attack,Discharge,Hyper Beam,6,10,3,50000,--,多邊獸
+Toxicroak,70.1,454,poison,fighting,136.6,91.5,131,1636876,22.0,1498,Counter,Mud Bomb,Shadow Ball,7,10,3,50000,Shadow,毒骷蛙
+Weavile,70.1,461,dark,ice,143.1,103.4,106,1568420,18.5,1500,Snarl,Avalanche,Foul Play,4,4,3,50000,Shadow,瑪狃拉
+Bibarel,70.0,400,normal,water,124.2,97.7,149,1807978,30.5,1499,Water Gun,Surf,Hyper Fang,15,17,1,10000,--,大尾狸
+Gigalith,70.0,526,rock,none,127.2,118.4,116,1747772,17.0,1492,Mud Slap,Superpower,Meteor Beam,4,6,3,50000,--,龐岩怪
+Poipole,70.0,803,poison,none,119.7,113.6,137,1862719,36.0,1495,Poison Jab,Sludge Bomb,Fell Stinger,8,5,20,100000,--,毒貝比
+Toxicroak,70.0,454,poison,fighting,136.6,91.5,131,1636876,22.0,1498,Counter,Mud Bomb,Shadow Ball,7,10,3,50000,--,毒骷蛙
+Cherrim,69.9,421,grass,none,122.9,115.2,129,1826290,27.0,1498,Bullet Seed,Weather Ball (Fire),Solar Beam,3,7,1,10000,Sunshine,櫻花兒
+Electrode,69.9,101,electric,none,123.1,127.2,116,1816610,26.5,1496,Volt Switch,Discharge,Foul Play,3,3,3,50000,Shadow,頑皮雷彈
+Gurdurr,69.9,533,fighting,none,124.8,99.8,143,1781718,25.5,1491,Poison Jab,Brick Break,Stone Edge,6,8,5,75000,--,鐵骨土人
+Ursaluna,69.9,901,ground,normal,126.2,97.2,145,1777377,14.5,1499,Tackle,Swift,High Horsepower,12,20,3,50000,Shadow,月月熊
+Grotle,69.8,388,grass,none,118.3,116.1,138,1895093,30.5,1497,Razor Leaf,Body Slam,Energy Ball,9,14,3,10000,--,樹林龜
+Heatmor,69.8,631,fire,none,133.3,91.6,136,1660290,23.0,1489,Fire Spin,Flamethrower,Thunder Punch,6,4,3,50000,--,熔蟻獸
+Quaxwell,69.7,913,water,none,124.7,103.1,139,1786476,32.5,1496,Water Gun,Liquidation,Aerial Ace,15,14,3,10000,--,湧躍鴨
+Bibarel,69.6,400,normal,water,124.2,97.7,149,1807978,30.5,1499,Water Gun,Surf,Hyper Fang,15,17,1,10000,Shadow,大尾狸
+Comfey,69.6,764,fairy,none,116.9,155.4,105,1907768,26.5,1494,Vine Whip,Grass Knot,Draining Kiss,7,7,3,50000,--,花療環環
+Crobat,69.6,169,poison,flying,121.8,115.7,130,1832248,21.0,1496,Air Slash,Poison Fang,Shadow Ball,5,7,1,10000,--,叉字蝠
+Shelgon,69.6,372,dragon,none,123.3,118.4,123,1795453,27.5,1493,Dragon Breath,Flamethrower,Dragon Pulse,19,20,5,75000,Shadow,甲殼龍
+Simisage,69.6,512,grass,none,136.6,94.5,126,1627774,23.5,1496,Vine Whip,Grass Knot,Crunch,7,6,3,50000,--,花椰猿
+Weepinbell,69.6,70,grass,poison,139.2,83.7,138,1606435,38.5,1497,Bullet Seed,Power Whip,Sludge Bomb,4,4,3,50000,Shadow,口呆花
+Darmanitan,69.5,555,fire,none,151.3,71.4,137,1480445,18.0,1497,Incinerate,Rock Slide,Overheat,3,3,3,50000,Standard,達摩狒狒
+Flareon,69.5,136,fire,none,141.7,110.0,100,1557872,18.0,1488,Fire Spin,Superpower,Flamethrower,4,6,5,75000,--,火伊布
+Floatzel,69.5,419,water,none,143.8,81.1,133,1551619,22.5,1494,Water Gun,Liquidation,Swift,15,12,3,50000,--,浮潛鼬
+Decidueye,69.4,724,grass,fighting,129.6,106.9,124,1718957,20.0,1494,Magical Leaf,Aerial Ace,Aura Sphere,4,6,3,10000,Hisuian,狙射樹梟
+Exeggutor,69.4,103,grass,dragon,134.4,94.2,131,1659647,18.5,1493,Dragon Tail,Seed Bomb,Draco Meteor,5,8,3,50000,Alolan,椰蛋樹
+Prinplup,69.4,394,water,none,119.1,116.0,136,1878103,37.0,1500,Bubble,Icy Wind,Hydro Pump,5,7,3,10000,Shadow,波皇子
+Frogadier,69.3,657,water,none,135.4,99.2,123,1653012,39.5,1500,Bubble,Surf,Aerial Ace,5,4,3,10000,--,呱頭蛙
+Garchomp,69.3,445,dragon,ground,132.5,102.5,124,1683122,14.0,1495,Dragon Tail,Sand Tomb,Outrage,5,7,5,75000,Shadow,烈咬陸鯊
+Moltres,69.3,146,fire,flying,136.3,102.6,117,1635633,16.0,1493,Fire Spin,Sky Attack,Ancient Power,6,5,20,100000,Shadow,火焰鳥
+Mr. Mime,69.3,122,psychic,fairy,132.2,145.7,88,1695360,25.5,1500,Psywave,Shadow Ball,Psychic,14,14,5,75000,--,魔牆人偶
+Pumpkaboo,69.3,710,ghost,grass,115.1,116.8,119,1600115,50.0,1359,Astonish,Grass Knot,Foul Play,5,5,5,75000,Small,南瓜精
+Tsareena,69.3,763,grass,none,131.6,119.9,108,1704753,19.0,1499,Magical Leaf,Triple Axel,High Jump Kick,5,6,3,10000,--,甜冷美后
+Zapdos,69.3,145,fighting,flying,135.2,106.2,115,1651425,15.5,1495,Counter,Ancient Power,Brave Bird,8,10,20,100000,Galarian,閃電鳥
+Crobat,69.2,169,poison,flying,121.8,115.7,130,1832248,21.0,1496,Air Slash,Poison Fang,Shadow Ball,5,7,1,10000,Shadow,叉字蝠
+Entei,69.2,244,fire,none,128.8,96.2,141,1746495,16.0,1500,Fire Spin,Flame Charge,Scorching Sands,5,5,20,100000,Shadow,炎帝
+Gloom,69.2,44,grass,poison,122.6,114.9,130,1830873,37.5,1500,Razor Leaf,Sludge Bomb,Petal Blizzard,13,17,3,50000,--,臭臭花
+Sawk,69.2,539,fighting,none,141.0,99.8,113,1589415,20.0,1500,Poison Jab,Body Slam,Brick Break,5,6,5,75000,Shadow,打擊鬼
+Swadloon,69.2,541,bug,grass,106.7,147.9,133,2099118,50.0,1500,Bug Bite,Energy Ball,Silver Wind,19,15,1,10000,--,寶包繭
+Escavalier,69.1,589,bug,steel,133.9,116.8,107,1673454,19.5,1499,Counter,Drill Run,Megahorn,8,10,3,50000,Shadow,騎士蝸牛
+Beartic,69.0,614,ice,none,134.9,94.6,129,1646922,18.0,1491,Powder Snow,Ice Punch,Liquidation,5,6,3,50000,--,凍原熊
+Entei,69.0,244,fire,none,128.8,96.2,141,1746495,16.0,1500,Fire Spin,Flame Charge,Scorching Sands,5,5,20,100000,--,炎帝
+Moltres,69.0,146,fire,flying,136.3,102.6,117,1635633,16.0,1493,Fire Spin,Sky Attack,Ancient Power,6,5,20,100000,--,火焰鳥
+Swanna,69.0,581,water,flying,129.3,99.7,134,1727466,26.5,1498,Air Slash,Fly,Ice Beam,5,7,3,50000,--,舞天鵝
+Bisharp,68.9,625,dark,steel,139.2,111.5,103,1598638,19.5,1497,Snarl,Dark Pulse,X-Scissor,4,4,5,75000,--,劈斬司令
+Sandshrew,68.9,27,ground,none,118.5,113.4,127,1706968,50.0,1426,Sand Attack,Dig,Rock Slide,13,12,3,50000,Shadow,穿山鼠
+Slowking,68.9,199,water,psychic,113.4,120.9,143,1961133,22.0,1493,Water Gun,Surf,Psychic,15,19,3,50000,Shadow,呆呆王
+Arboliva,68.8,930,grass,normal,129.9,115.5,115,1724594,18.5,1499,Magical Leaf,Earth Power,Trailblaze,6,5,3,50000,--,奧利瓦
+Ninjask,68.8,291,bug,flying,144.2,89.1,120,1541269,28.0,1496,Fury Cutter,Aerial Ace,Bug Buzz,10,15,5,75000,--,鐵面忍者
+Breloom,68.7,286,grass,fighting,150.6,97.3,101,1480402,21.0,1493,Force Palm,Dynamic Punch,Grass Knot,5,5,3,50000,--,斗笠菇
+Kartana,68.7,798,grass,steel,170.7,98.8,78,1316087,15.0,1500,Razor Leaf,Leaf Blade,Night Slash,9,9,20,100000,--,紙御劍
+Mankey,68.7,56,fighting,none,137.0,81.5,113,1261556,50.0,1317,Karate Chop,Cross Chop,Return,4,8,3,50000,--,猴怪
+Slowbro,68.7,80,water,psychic,113.4,120.9,143,1961133,22.0,1493,Water Gun,Surf,Ice Beam,15,19,3,50000,Shadow,呆殼獸
+Tauros,68.7,128,normal,none,125.1,118.9,120,1785591,21.5,1495,Tackle,Trailblaze,Horn Attack,15,12,3,50000,--,肯泰羅
+Teddiursa,68.7,216,normal,none,130.2,90.8,142,1678466,50.0,1482,Lick,Swift,Cross Chop,12,12,3,50000,Shadow,熊寶寶
+Cubone,68.6,104,ground,none,88.2,133.6,127,1497128,50.0,1152,Mud Slap,Bone Club,Return,4,7,3,50000,--,卡拉卡拉
+Drakloak,68.6,886,dragon,ghost,131.0,92.6,141,1710626,39.0,1498,Astonish,Shadow Ball,Outrage,6,6,5,75000,--,多龍奇
+Exploud,68.6,295,normal,none,119.8,98.4,158,1863205,23.5,1494,Astonish,Crunch,Disarming Voice,5,5,1,10000,--,爆音怪
+Infernape,68.6,392,fire,fighting,136.7,100.4,118,1619407,20.5,1491,Fire Spin,Close Combat,Blast Burn,5,5,3,10000,--,烈焰猴
+Stufful,68.6,759,normal,fighting,125.2,90.8,157,1783933,50.0,1495,Tackle,Superpower,Stomp,14,14,1,10000,--,童偶熊
+Vibrava,68.6,329,ground,dragon,125.2,95.8,127,1523223,50.0,1384,Dragon Breath,Sand Tomb,Bug Buzz,14,20,5,75000,--,超音波幼蟲
+Weepinbell,68.6,70,grass,poison,137.8,84.3,139,1614019,39.5,1493,Bullet Seed,Power Whip,Sludge Bomb,4,4,3,50000,--,口呆花
+Arcanine,68.5,59,fire,none,132.7,104.0,122,1683972,18.5,1497,Snarl,Wild Charge,Psychic Fangs,4,3,3,50000,Shadow,風速狗
+Delcatty,68.5,301,normal,none,112.7,115.2,153,1986701,46.5,1496,Charm,Wild Charge,Disarming Voice,8,8,3,50000,--,優雅貓
+Delphox,68.5,655,fire,psychic,132.6,115.6,109,1671331,18.0,1491,Fire Spin,Blast Burn,Mystical Fire,5,5,3,10000,--,妖火紅狐
+Lairon,68.5,305,steel,rock,114.5,142.8,120,1962204,28.0,1500,Metal Claw,Rock Slide,Body Slam,7,5,1,10000,--,可多拉
+Latias,68.5,380,dragon,psychic,124.5,137.9,105,1802286,16.0,1499,Dragon Breath,Mist Ball,Thunder,20,20,20,100000,Shadow,拉帝亞斯
+Nuzleaf,68.5,274,grass,dark,125.2,78.1,157,1536164,50.0,1387,Feint Attack,Leaf Blade,Foul Play,6,8,3,50000,Shadow,長鼻葉
+Torterra,68.5,389,grass,ground,120.5,117.6,131,1857185,19.0,1496,Razor Leaf,Frenzy Plant,Stone Edge,12,14,3,10000,--,土台龜
+Typhlosion,68.5,157,fire,ghost,142.8,103.4,106,1564157,20.0,1500,Hex,Fire Punch,Shadow Ball,4,5,3,10000,Hisuian,火爆獸
+Weavile,68.5,461,dark,ice,143.1,103.4,106,1568420,18.5,1500,Snarl,Avalanche,Foul Play,4,4,3,50000,--,瑪狃拉
+Sandshrew,68.4,27,ground,none,118.5,113.4,127,1706968,50.0,1426,Sand Attack,Dig,Rock Slide,13,12,3,50000,--,穿山鼠
+Tirtouga,68.4,564,water,rock,113.9,132.0,130,1955087,47.0,1494,Water Gun,Surf,Ancient Power,15,15,5,75000,--,原蓋海龜
+Ursaluna,68.4,901,ground,normal,126.2,97.2,145,1777377,14.5,1499,Tackle,Swift,High Horsepower,12,20,3,50000,--,月月熊
+Exeggutor,68.3,103,grass,dragon,134.4,94.2,131,1659647,18.5,1493,Dragon Tail,Seed Bomb,Draco Meteor,5,8,3,50000,Alolan,椰蛋樹
+Garchomp,68.3,445,dragon,ground,132.5,102.5,124,1683122,14.0,1495,Dragon Tail,Sand Tomb,Outrage,5,7,5,75000,--,烈咬陸鯊
+Rotom,68.3,479,electric,ghost,133.6,123.0,102,1676130,28.0,1500,Astonish,Thunderbolt,Ominous Wind,6,5,5,75000,--,洛托姆
+Darumaka,68.2,554,fire,none,132.0,83.5,154,1697707,49.0,1499,Fire Fang,Fire Punch,Flame Charge,8,10,3,50000,Shadow,火紅不倒翁
+Raticate,68.1,20,normal,none,125.9,115.3,122,1771626,34.5,1494,Quick Attack,Hyper Fang,Dig,7,7,1,10000,--,拉達
+Tangela,68.1,114,grass,none,125.0,121.7,117,1778920,24.5,1491,Vine Whip,Grass Knot,Sludge Bomb,7,7,3,50000,Shadow,蔓藤怪
+Diancie,68.0,719,rock,fairy,119.2,175.2,89,1857962,19.5,1488,Rock Throw,Power Gem,Rock Slide,10,9,20,100000,--,蒂安希
+Heliolisk,68.0,695,electric,normal,137.1,112.0,105,1612926,21.0,1493,Volt Switch,Breaking Swipe,Parabolic Charge,3,4,3,50000,--,光電傘蜥
+Tyranitar,68.0,248,rock,dark,130.2,109.4,121,1723417,14.5,1498,Smack Down,Brutal Swing,Stone Edge,5,7,5,75000,Shadow,班基拉斯
+Articuno,67.9,144,psychic,flying,134.1,108.3,115,1671021,15.5,1498,Psycho Cut,Ancient Power,Brave Bird,5,7,20,100000,Galarian,急凍鳥
+Camerupt,67.9,323,fire,ground,134.9,101.2,122,1665522,25.5,1499,Incinerate,Earth Power,Overheat,3,3,3,50000,--,噴火駝
+Exploud,67.9,295,normal,none,119.8,98.4,158,1863205,23.5,1494,Astonish,Crunch,Disarming Voice,5,5,1,10000,Shadow,爆音怪
+Lugia,67.9,249,psychic,flying,102.4,165.0,129,2181164,15.0,1496,Dragon Tail,Sky Attack,Aeroblast,7,9,20,100000,--,洛奇亞
+Nuzleaf,67.9,274,grass,dark,125.2,78.1,157,1536164,50.0,1387,Feint Attack,Leaf Blade,Foul Play,6,8,3,50000,--,長鼻葉
+Vileplume,67.9,45,grass,poison,129.1,110.9,121,1732053,22.0,1498,Razor Leaf,Sludge Bomb,Petal Blizzard,13,17,3,50000,--,霸王花
+Wobbuffet,67.9,202,psychic,none,63.0,101.7,333,2133829,50.0,1160,Counter,Mirror Coat,Frustration,10,12,3,50000,Shadow,果然翁
+Chandelure,67.7,609,ghost,fire,151.4,106.9,91,1472749,16.5,1498,Incinerate,Flame Charge,Shadow Ball,3,3,5,75000,--,水晶燈火靈
+Cursola,67.7,864,ghost,none,146.2,111.1,94,1526840,18.0,1499,Astonish,Night Shade,Power Gem,5,5,3,50000,--,魔靈珊瑚
+Heracross,67.7,214,bug,fighting,134.7,107.9,114,1655921,17.5,1497,Counter,Megahorn,Rock Blast,10,7,3,50000,--,赫拉克羅斯
+Swellow,67.7,277,normal,flying,136.7,98.6,121,1630044,29.0,1496,Wing Attack,Brave Bird,Aerial Ace,8,6,1,10000,--,大王燕
+Aerodactyl,67.6,142,rock,flying,135.0,103.9,118,1656037,20.0,1500,Rock Throw,Rock Slide,Earth Power,9,11,5,75000,Shadow,化石翼龍
+Ambipom,67.6,424,normal,none,133.9,99.9,124,1659351,23.0,1496,Astonish,Aerial Ace,Low Sweep,4,4,3,50000,Shadow,雙尾怪手
+Honchkrow,67.6,430,dark,flying,150.6,68.3,145,1492462,20.5,1500,Snarl,Brave Bird,Dark Pulse,5,4,3,50000,--,烏鴉頭頭
+Sandygast,67.6,769,ghost,ground,113.4,111.8,135,1711543,50.0,1394,Astonish,Scorching Sands,Shadow Ball,5,6,3,50000,--,沙丘娃
+Camerupt,67.5,323,fire,ground,134.9,101.2,122,1665522,25.5,1499,Incinerate,Earth Power,Overheat,3,3,3,50000,Shadow,噴火駝
+Chimecho,67.5,358,psychic,none,120.2,120.2,129,1864669,25.0,1500,Astonish,Psyshock,Shadow Ball,5,6,5,75000,--,風鈴鈴
+Klang,67.5,600,steel,none,114.1,137.0,125,1954283,31.5,1494,Thunder Shock,Thunderbolt,Vise Grip,7,5,5,75000,--,齒輪組
+Thwackey,67.5,811,grass,none,124.7,108.5,133,1798445,31.0,1500,Razor Leaf,Grass Knot,Energy Ball,13,14,3,10000,--,啪咚猴
+Armaldo,67.4,348,rock,bug,133.3,110.9,113,1670643,19.5,1497,Fury Cutter,Rock Blast,Liquidation,10,12,3,50000,--,太古盔甲
+Karrablast,67.4,588,bug,none,127.7,85.7,127,1390325,50.0,1336,Fury Cutter,X-Scissor,Drill Run,10,12,3,50000,Shadow,蓋蓋蟲
+Luxio,67.4,404,electric,none,134.1,91.1,137,1672950,47.5,1500,Spark,Wild Charge,Crunch,7,7,5,75000,--,勒克貓
+Nidoking,67.4,34,poison,ground,130.1,104.1,127,1719018,21.5,1498,Double Kick,Sand Tomb,Earth Power,4,5,3,50000,Shadow,尼多王
+Shaymin,67.4,492,grass,none,117.9,122.3,131,1888054,17.0,1492,Magical Leaf,Grass Knot,Seed Flare,5,8,20,100000,Land,謝米
+Klinklang,67.3,601,steel,none,124.9,140.2,102,1785632,21.0,1494,Thunder Shock,Mirror Shot,Zap Cannon,4,9,5,75000,--,齒輪怪
+Raboot,67.3,814,fire,none,130.0,102.1,130,1726633,30.5,1498,Fire Spin,Flame Charge,Flamethrower,5,6,3,10000,--,騰蹴小將
+Wyrdeer,67.3,899,normal,psychic,127.0,96.8,143,1757652,20.5,1495,Confusion,Stomp,Wild Charge,4,4,5,75000,--,詭角鹿
+Dustox,67.2,269,bug,poison,95.0,148.7,142,2005436,50.0,1384,Confusion,Sludge Bomb,Silver Wind,5,4,1,10000,--,毒粉蛾
+Manectric,67.2,310,electric,none,142.5,91.3,120,1561030,23.5,1494,Snarl,Wild Charge,Psychic Fangs,4,3,3,50000,--,雷電獸
+Blissey,67.1,242,normal,none,81.4,110.2,307,2754156,21.0,1498,Zen Headbutt,Wild Charge,Psychic,8,10,5,75000,--,幸福蛋
+Graveler,67.1,75,rock,ground,122.9,127.3,117,1831093,30.0,1500,Mud Slap,Stone Edge,Dig,6,5,1,10000,--,隆隆石
+Karrablast,67.1,588,bug,none,127.7,85.7,127,1390325,50.0,1336,Fury Cutter,X-Scissor,Drill Run,10,12,3,50000,--,蓋蓋蟲
+Pidgeotto,67.1,17,normal,flying,110.9,100.8,147,1644149,50.0,1350,Wing Attack,Aerial Ace,Return,6,10,1,10000,--,比比鳥
+Gholdengo,67.0,1000,steel,ghost,135.7,106.2,114,1643435,15.5,1494,Astonish,Shadow Ball,Focus Blast,6,8,5,10000,--,賽富豪
+Groudon,67.0,383,ground,none,135.5,116.8,105,1661817,13.5,1500,Mud Shot,Precipice Blades,Fire Punch,8,5,20,100000,Shadow,固拉多
+Scraggy,67.0,559,dark,fighting,120.4,122.1,126,1851509,48.0,1494,Feint Attack,Foul Play,Brick Break,8,7,3,50000,--,滑滑小子
+Stakataka,67.0,805,rock,steel,119.4,169.8,92,1865399,16.5,1498,Rock Throw,Stone Edge,Flash Cannon,11,14,20,100000,--,壘磊石
+Arcanine,66.9,59,fire,none,132.7,104.0,122,1683972,18.5,1497,Snarl,Wild Charge,Psychic Fangs,4,3,3,50000,--,風速狗
+Boldore,66.9,525,rock,none,126.5,108.2,130,1779034,28.0,1500,Mud Slap,Stone Edge,Rock Slide,6,5,3,50000,Shadow,地幔岩
+Porygon2,66.9,233,normal,none,123.7,115.7,127,1816950,21.0,1500,Lock On,Tri Attack,Zap Cannon,10,16,3,50000,--,多邊獸Ⅱ
+Porygon2,66.9,233,normal,none,123.7,115.7,127,1816950,21.0,1500,Lock On,Tri Attack,Zap Cannon,10,16,3,50000,Shadow,多邊獸Ⅱ
+Rillaboom,66.9,812,grass,none,133.5,97.7,129,1681954,16.5,1499,Razor Leaf,Grass Knot,Earth Power,13,14,3,10000,--,轟擂金剛猩
+Manectric,66.8,310,electric,none,142.5,91.3,120,1561030,23.5,1494,Snarl,Wild Charge,Psychic Fangs,4,3,3,50000,Shadow,雷電獸
+Slowpoke,66.8,79,water,psychic,104.2,95.0,186,1840271,50.0,1386,Confusion,Psyshock,Water Pulse,4,5,3,50000,--,呆呆獸
+Braviary,66.7,628,normal,flying,134.3,94.1,132,1668093,18.0,1497,Air Slash,Fly,Close Combat,5,5,5,75000,--,勇士雄鷹
+Graveler,66.7,75,rock,ground,123.4,124.9,118,1819319,30.5,1500,Mud Slap,Stone Edge,Dig,6,5,1,10000,Shadow,隆隆石
+Quaquaval,66.6,914,water,fighting,137.9,97.1,121,1620197,18.5,1496,Wing Attack,Close Combat,Aerial Ace,7,6,3,10000,--,狂歡浪舞鴨
+Smoochum,66.6,238,ice,psychic,141.2,89.1,120,1508916,50.0,1460,Powder Snow,Ice Punch,Psyshock,5,6,5,10000,--,迷唇娃
+Tirtouga,66.6,564,water,rock,113.9,132.0,130,1955087,47.0,1494,Water Gun,Surf,Ancient Power,15,15,5,75000,Shadow,原蓋海龜
+Wartortle,66.6,8,water,none,107.9,137.8,139,2067932,48.0,1496,Water Gun,Ice Beam,Hydro Pump,19,25,3,10000,Shadow,卡咪龜
+Latias,66.5,380,dragon,psychic,124.5,137.9,105,1802286,16.0,1499,Dragon Breath,Mist Ball,Thunder,20,20,20,100000,--,拉帝亞斯
+Zygarde,66.5,718,dragon,ground,138.1,119.1,98,1612643,22.5,1494,Dragon Tail,Crunch,Earthquake,5,8,20,100000,10% Forme,基格爾德
+Aggron,66.3,306,steel,rock,116.1,154.0,107,1912293,18.5,1492,Smack Down,Meteor Beam,Thunder,8,8,1,10000,Shadow,波士可多拉
+Raticate,66.3,20,normal,none,125.9,115.3,122,1771626,34.5,1494,Quick Attack,Hyper Fang,Dig,7,7,1,10000,Shadow,拉達
+Tyrantrum,66.3,697,rock,dragon,130.2,113.4,116,1713446,17.5,1495,Dragon Tail,Meteor Beam,Crunch,7,5,5,75000,--,怪顎龍
+Archen,66.2,566,rock,flying,160.1,76.0,115,1399059,31.0,1497,Quick Attack,Ancient Power,Dragon Claw,6,5,5,75000,Shadow,始祖小鳥
+Archeops,66.2,567,rock,flying,160.6,81.4,106,1385816,16.5,1494,Wing Attack,Ancient Power,Dragon Claw,7,5,5,75000,Shadow,始祖大鳥
+Teddiursa,66.2,216,normal,none,130.2,90.8,142,1678466,50.0,1482,Lick,Swift,Cross Chop,12,12,3,50000,--,熊寶寶
+Darumaka,66.1,554,fire,none,132.0,83.5,154,1697707,49.0,1499,Fire Fang,Fire Punch,Flame Charge,8,10,3,50000,--,火紅不倒翁
+Electabuzz,66.1,125,electric,none,130.9,112.6,115,1694299,24.0,1490,Thunder Shock,Thunder Punch,Return,5,8,5,75000,--,電擊獸
+Infernape,66.1,392,fire,fighting,136.7,100.4,118,1619407,20.5,1491,Fire Spin,Close Combat,Blast Burn,5,5,3,10000,Shadow,烈焰猴
+Oddish,66.1,43,grass,poison,122.7,106.7,120,1571110,50.0,1389,Razor Leaf,Seed Bomb,Sludge Bomb,12,13,3,50000,Shadow,走路草
+Sudowoodo,66.1,185,rock,none,117.2,130.1,125,1905357,26.0,1496,Counter,Meteor Beam,Trailblaze,10,8,5,75000,--,樹才怪
+Celebi,66.0,251,psychic,grass,120.5,119.4,129,1855163,16.5,1498,Magical Leaf,Seed Bomb,Leaf Storm,5,6,20,100000,--,時拉比
+Tranquill,66.0,520,normal,flying,124.0,101.4,143,1797495,49.5,1494,Air Slash,Aerial Ace,Sky Attack,5,7,1,10000,Shadow,咕咕鴿
+Venomoth,66.0,49,bug,poison,128.2,104.4,131,1752985,27.5,1499,Infestation,Poison Fang,Bug Buzz,4,5,3,50000,--,摩魯蛾
+Kingler,65.8,99,water,none,143.9,115.0,93,1539736,19.5,1495,Bubble,Crabhammer,X-Scissor,5,4,3,50000,--,巨鉗蟹
+Lombre,65.8,271,water,grass,106.7,112.6,142,1706340,50.0,1353,Bubble,Scald,Grass Knot,5,5,3,50000,--,蓮帽小童
+Espeon,65.7,196,psychic,none,147.6,104.1,98,1505910,17.0,1491,Confusion,Psychic Fangs,Shadow Ball,3,5,5,75000,--,太陽伊布
+Houndoom,65.7,229,dark,fire,140.8,94.9,119,1589764,21.0,1498,Snarl,Crunch,Flamethrower,4,5,3,50000,Shadow,黑魯加
+Meowstic,65.7,678,psychic,none,117.6,124.5,130,1902817,26.5,1499,Sucker Punch,Psychic,Thunderbolt,8,8,3,50000,Male,超能妙喵
+Yanma,65.7,193,bug,flying,131.6,87.4,148,1702917,48.5,1498,Quick Attack,Aerial Ace,Silver Wind,5,6,3,50000,--,蜻蜻蜓
+Sawk,65.6,539,fighting,none,141.0,99.8,113,1589415,20.0,1500,Poison Jab,Body Slam,Brick Break,5,6,5,75000,--,打擊鬼
+Skrelp,65.6,690,poison,water,104.2,104.2,127,1378846,50.0,1202,Water Gun,Aqua Tail,Sludge Bomb,12,17,3,50000,--,垃垃藻
+Slowpoke,65.6,79,psychic,none,104.2,95.0,186,1840271,50.0,1386,Confusion,Psyshock,Surf,4,4,3,50000,Galarian,呆呆獸
+Stantler,65.6,234,normal,none,132.8,98.1,129,1680704,26.0,1496,Tackle,Wild Charge,Stomp,15,14,3,50000,--,驚角鹿
+Clamperl,65.5,366,water,none,124.4,126.0,105,1645929,50.0,1436,Water Gun,Body Slam,Water Pulse,12,19,3,50000,--,珍珠貝
+Honchkrow,65.5,430,dark,flying,150.6,68.3,145,1492462,20.5,1500,Snarl,Brave Bird,Dark Pulse,5,4,3,50000,Shadow,烏鴉頭頭
+Glaceon,65.4,471,ice,none,137.2,124.1,96,1634258,18.0,1499,Ice Shard,Avalanche,Icy Wind,5,5,5,75000,--,冰伊布
+Rotom,65.4,479,electric,fire,129.2,143.2,93,1720709,21.0,1491,Thunder Shock,Overheat,Thunderbolt,7,7,5,75000,Heat,洛托姆
+Sliggoo,65.4,705,dragon,none,115.2,132.6,127,1940188,27.0,1499,Water Gun,Muddy Water,Dragon Pulse,12,20,5,75000,--,黏美兒
+Tranquill,65.4,520,normal,flying,124.0,101.4,143,1797495,49.5,1494,Air Slash,Aerial Ace,Return,5,8,1,10000,--,咕咕鴿
+Fuecoco,65.3,909,fire,none,106.7,93.3,152,1513000,50.0,1274,Incinerate,Crunch,Disarming Voice,3,3,3,10000,--,呆火鱷
+Sunflora,65.3,192,grass,none,128.7,102.2,131,1723173,26.0,1492,Bullet Seed,Leaf Storm,Sludge Bomb,5,4,3,50000,--,向日花怪
+Eelektrik,65.2,603,electric,none,123.2,110.9,133,1818238,36.5,1498,Spark,Crunch,Discharge,7,7,1,10000,--,麻麻鰻
+Gabite,65.2,444,dragon,ground,128.8,101.0,133,1729456,30.0,1497,Mud Shot,Dig,Flamethrower,7,7,5,75000,--,尖牙陸鯊
+Charmeleon,65.1,5,fire,none,127.1,109.1,127,1760642,39.0,1496,Ember,Fire Punch,Flamethrower,7,10,3,10000,Shadow,火恐龍
+Geodude,65.1,74,rock,electric,123.5,123.5,113,1724177,50.0,1462,Volt Switch,Rock Slide,Thunderbolt,3,4,1,10000,Alolan,小拳石
+Pawmo,65.1,922,electric,fighting,136.1,81.5,142,1575592,50.0,1468,Spark,Wild Charge,Thunder Punch,7,6,3,75000,--,布土撥
+Venomoth,65.1,49,bug,poison,128.2,104.4,131,1752985,27.5,1499,Infestation,Poison Fang,Bug Buzz,4,5,3,50000,Shadow,摩魯蛾
+Zebstrika,65.1,523,electric,none,137.7,95.5,123,1617244,23.0,1496,Spark,Wild Charge,Flame Charge,7,8,3,50000,--,雷電斑馬
+Mightyena,65.0,262,dark,none,125.9,104.3,134,1759749,29.0,1491,Ice Fang,Crunch,Poison Fang,9,8,1,10000,--,大狼犬
+Tyranitar,65.0,248,rock,dark,130.2,109.4,121,1723417,14.5,1498,Smack Down,Brutal Swing,Stone Edge,5,7,5,75000,--,班基拉斯
+Nidoking,64.9,34,poison,ground,130.1,104.1,127,1719018,21.5,1498,Double Kick,Sand Tomb,Earth Power,4,5,3,50000,--,尼多王
+Pawmot,64.9,923,electric,fighting,144.5,94.3,113,1538995,21.0,1492,Spark,Close Combat,Wild Charge,7,7,3,75000,--,巴布土撥
+Skorupi,64.9,451,poison,bug,90.8,139.5,113,1430471,50.0,1141,Poison Sting,Aqua Tail,Cross Poison,4,4,5,75000,Shadow,鉗尾蠍
+Slowpoke,64.9,79,water,psychic,104.2,95.0,186,1840271,50.0,1386,Confusion,Psyshock,Water Pulse,4,5,3,50000,Shadow,呆呆獸
+Snover,64.9,459,grass,ice,109.2,100.8,142,1564162,50.0,1311,Powder Snow,Ice Beam,Energy Ball,7,7,3,50000,--,雪笠怪
+Boldore,64.8,525,rock,none,123.3,110.7,131,1787765,27.5,1484,Mud Slap,Rock Slide,Bulldoze,5,6,3,50000,--,地幔岩
+Gothitelle,64.8,576,psychic,none,116.6,137.3,120,1920338,23.5,1498,Confusion,Rock Slide,Future Sight,4,6,3,50000,--,哥德小姐
+Aerodactyl,64.7,142,rock,flying,135.0,103.9,118,1656037,20.0,1500,Rock Throw,Rock Slide,Earth Power,9,11,5,75000,--,化石翼龍
+Kyogre,64.7,382,water,none,135.5,116.8,105,1661817,13.5,1500,Waterfall,Surf,Origin Pulse,6,8,20,100000,Shadow,蓋歐卡
+Simipour,64.7,516,water,none,136.6,94.5,126,1627774,23.5,1496,Water Gun,Surf,Crunch,15,15,3,50000,--,冷水猿
+Aron,64.6,304,steel,rock,114.3,131.1,127,1902550,50.0,1478,Metal Claw,Body Slam,Iron Head,5,8,1,10000,Shadow,可可多拉
+Cinderace,64.6,815,fire,none,139.0,102.3,113,1606935,18.5,1499,Fire Spin,Flamethrower,Flame Charge,6,5,3,10000,--,閃焰王牌
+Growlithe,64.6,58,fire,none,126.9,90.8,135,1554545,50.0,1405,Ember,Body Slam,Flamethrower,6,10,3,50000,Shadow,卡蒂狗
+Luxio,64.6,404,electric,none,134.1,89.1,139,1661818,45.5,1493,Spark,Wild Charge,Crunch,7,7,5,75000,Shadow,勒克貓
+Simisear,64.6,514,fire,none,136.6,94.5,126,1627774,23.5,1496,Fire Spin,Crunch,Flamethrower,5,6,3,50000,--,爆香猿
+Sneasel,64.6,215,dark,ice,135.5,110.7,110,1649923,26.5,1499,Ice Shard,Avalanche,Foul Play,5,5,3,50000,--,狃拉
+Aggron,64.5,306,steel,rock,116.1,154.0,107,1912293,18.5,1492,Smack Down,Meteor Beam,Thunder,8,8,1,10000,--,波士可多拉
+Ambipom,64.5,424,normal,none,133.9,99.9,124,1659351,23.0,1496,Astonish,Aerial Ace,Return,4,7,3,50000,--,雙尾怪手
+Banette,64.5,354,ghost,none,146.8,89.3,117,1533076,24.5,1500,Shadow Claw,Shadow Ball,Thunder,7,8,3,50000,--,詛咒娃娃
+Seel,64.5,86,water,none,84.0,114.3,149,1430849,50.0,1098,Water Gun,Aqua Tail,Icy Wind,12,15,3,50000,--,小海獅
+Darumaka,64.4,554,ice,none,132.0,83.5,154,1697707,49.0,1499,Ice Fang,Ice Punch,Ice Beam,8,11,3,50000,Galarian,火紅不倒翁
+Lugia,64.4,249,psychic,flying,102.4,165.0,129,2181164,15.0,1496,Dragon Tail,Aeroblast,Sky Attack,9,7,20,100000,Shadow,洛奇亞
+Mightyena,64.4,262,dark,none,125.9,104.3,134,1759749,29.0,1491,Ice Fang,Crunch,Poison Fang,9,8,1,10000,Shadow,大狼犬
+Ponyta,64.4,77,fire,none,134.8,109.4,113,1666179,36.5,1500,Ember,Flame Charge,Stomp,9,7,3,50000,--,小火馬
+Sharpedo,64.4,319,water,dark,166.6,64.8,124,1338010,25.5,1493,Waterfall,Crunch,Poison Fang,6,5,3,50000,--,巨牙鯊
+Illumise,64.3,314,bug,none,111.1,136.8,132,2005636,34.0,1494,Tackle,Silver Wind,Bug Buzz,15,20,3,50000,--,甜甜螢
+Vivillon,64.3,666,bug,flying,133.0,84.5,150,1685529,30.5,1500,Gust,Aerial Ace,Bug Buzz,4,5,1,10000,--,彩粉蝶
+Bonsly,64.2,438,rock,none,116.8,124.4,127,1844799,50.0,1472,Rock Throw,Rock Slide,Earthquake,9,13,5,10000,--,盆才怪
+Jolteon,64.2,135,electric,none,138.6,113.0,103,1612419,19.0,1495,Volt Switch,Discharge,Last Resort,3,4,5,75000,--,雷伊布
+Kabutops,64.1,141,rock,water,135.5,121.0,100,1638836,20.5,1493,Fury Cutter,Stone Edge,Ancient Power,14,12,5,75000,--,鐮刀盔
+Mesprit,64.1,481,psychic,none,124.1,125.8,116,1811528,18.0,1500,Confusion,Swift,Future Sight,3,6,20,100000,--,艾姆利多
+Whirlipede,64.1,544,bug,poison,96.6,158.0,113,1725055,50.0,1293,Poison Sting,Sludge Bomb,Signal Beam,6,7,1,10000,Shadow,車輪毬
+Geodude,64.0,74,rock,electric,123.5,123.5,113,1724177,50.0,1462,Volt Switch,Rock Slide,Thunderbolt,3,4,1,10000,Alolan,小拳石
+Lampent,64.0,608,ghost,fire,133.3,97.1,130,1681422,36.5,1497,Astonish,Energy Ball,Flame Burst,6,6,5,75000,Shadow,燈火幽靈
+Lycanroc,64.0,745,rock,none,144.6,92.0,117,1556153,20.0,1500,Sucker Punch,Stone Edge,Drill Run,8,7,5,50000,Midday,鬃岩狼人
+Zoroark,64.0,571,dark,none,157.9,86.9,103,1414071,21.0,1497,Shadow Claw,Foul Play,Sludge Bomb,6,7,5,75000,--,索羅亞克
+Geodude,63.9,74,rock,ground,123.5,123.5,113,1724177,50.0,1462,Rock Throw,Rock Slide,Dig,9,10,1,10000,Shadow,小拳石
+Oddish,63.8,43,grass,poison,122.7,106.7,120,1571110,50.0,1389,Razor Leaf,Seed Bomb,Sludge Bomb,12,13,3,50000,--,走路草
+Omanyte,63.8,138,rock,water,129.2,131.7,102,1735737,44.5,1500,Mud Shot,Rock Blast,Ancient Power,5,6,5,75000,Shadow,菊石獸
+Whirlipede,63.8,544,bug,poison,96.6,158.0,113,1725055,50.0,1293,Poison Sting,Sludge Bomb,Signal Beam,6,7,1,10000,--,車輪毬
+Wormadam,63.8,413,bug,ground,109.9,146.8,126,2032523,33.5,1497,Bug Bite,Bug Buzz,Bulldoze,20,20,1,10000,Sandy,結草貴婦
+Onix,63.6,95,rock,ground,84.0,207.6,105,1831281,50.0,1245,Rock Throw,Breaking Swipe,Stone Edge,7,11,5,75000,--,大岩蛇
+Plusle,63.6,311,electric,none,129.2,107.3,125,1733312,34.0,1499,Quick Attack,Thunderbolt,Grass Knot,7,7,3,50000,--,正電拍拍
+Stunky,63.6,434,poison,dark,114.3,88.2,147,1482226,50.0,1301,Bite,Crunch,Trailblaze,23,23,3,50000,Shadow,臭鼬噗
+Dwebble,63.5,557,bug,rock,111.8,120.2,127,1705533,50.0,1384,Smack Down,X-Scissor,Rock Blast,5,5,1,10000,--,石居蟹
+Gothorita,63.5,575,psychic,none,112.5,130.8,135,1986960,41.5,1498,Confusion,Future Sight,Psychic,6,5,3,50000,--,哥德小童
+Houndoom,63.5,229,dark,fire,140.8,94.9,119,1589764,21.0,1498,Snarl,Crunch,Flamethrower,4,5,3,50000,--,黑魯加
+Popplio,63.5,728,water,none,113.4,99.2,127,1428526,50.0,1276,Water Gun,Aqua Tail,Water Pulse,12,19,3,10000,--,球球海獅
+Carracosta,63.4,565,water,rock,121.8,127.9,118,1839109,21.0,1497,Water Gun,Ancient Power,Liquidation,15,15,5,75000,Shadow,肋骨海龜
+Growlithe,63.4,58,fire,none,126.9,90.8,135,1554545,50.0,1405,Ember,Body Slam,Flamethrower,6,10,3,50000,--,卡蒂狗
+Lycanroc,63.4,745,rock,none,145.2,92.5,115,1544749,20.5,1500,Sucker Punch,Stone Edge,Trailblaze,8,7,5,50000,Dusk,鬃岩狼人
+Brionne,63.3,729,water,none,124.8,115.4,123,1770908,29.5,1488,Charm,Disarming Voice,Water Pulse,8,10,3,10000,--,花漾海獅
+Murkrow,63.2,198,dark,flying,143.5,80.9,134,1554945,40.5,1498,Feint Attack,Drill Peck,Foul Play,7,8,3,50000,Shadow,黑暗鴉
+Wormadam,63.2,413,bug,grass,109.9,146.8,126,2032523,33.5,1497,Bug Bite,Energy Ball,Bug Buzz,19,20,1,10000,Plant,結草貴婦
+Archeops,63.1,567,rock,flying,160.6,81.4,106,1385816,16.5,1494,Wing Attack,Ancient Power,Dragon Claw,7,5,5,75000,--,始祖大鳥
+Dwebble,63.1,557,bug,rock,111.8,120.2,127,1705533,50.0,1384,Smack Down,X-Scissor,Rock Blast,5,5,1,10000,Shadow,石居蟹
+Gothitelle,63.1,576,psychic,none,116.6,137.3,120,1920338,23.5,1498,Confusion,Rock Slide,Future Sight,4,6,3,50000,Shadow,哥德小姐
+Murkrow,63.1,198,dark,flying,143.5,80.9,134,1554945,40.5,1498,Feint Attack,Drill Peck,Foul Play,7,8,3,50000,--,黑暗鴉
+Quilava,63.1,156,fire,none,127.1,109.1,127,1760642,39.0,1496,Ember,Flame Charge,Dig,9,9,3,10000,Shadow,火岩鼠
+Stantler,63.1,234,normal,none,133.5,99.5,126,1672954,26.0,1494,Tackle,Wild Charge,Stomp,15,14,3,50000,Shadow,驚角鹿
+Onix,63.0,95,rock,ground,84.0,207.6,105,1831281,50.0,1245,Rock Throw,Breaking Swipe,Stone Edge,7,11,5,75000,Shadow,大岩蛇
+Quilava,63.0,156,fire,none,127.1,109.1,127,1760642,39.0,1496,Ember,Flame Charge,Dig,9,9,3,10000,--,火岩鼠
+Skorupi,63.0,451,poison,bug,90.8,139.5,113,1430471,50.0,1141,Poison Sting,Aqua Tail,Cross Poison,4,4,5,75000,--,鉗尾蠍
+Carracosta,62.9,565,water,rock,121.8,127.9,118,1839109,21.0,1497,Water Gun,Ancient Power,Liquidation,15,15,5,75000,--,肋骨海龜
+Stonjourner,62.9,874,rock,none,125.6,108.0,131,1775982,17.0,1493,Rock Throw,Stone Edge,Rock Slide,11,9,5,75000,--,巨石丁
+Wugtrio,62.9,961,water,none,151.8,107.2,90,1464371,29.0,1496,Mud Slap,Liquidation,Surf,5,5,3,50000,--,三海地鼠
+Combusken,62.8,256,fire,fighting,131.0,99.6,131,1710523,39.0,1497,Ember,Flame Charge,Rock Slide,9,8,3,10000,--,力壯雞
+Ribombee,62.8,743,bug,fairy,136.9,106.6,112,1634709,25.5,1500,Fairy Wind,Bug Buzz,Dazzling Gleam,7,8,1,10000,--,蝶結萌虻
+Sneasel,62.8,215,dark,ice,135.5,110.7,110,1649923,26.5,1499,Ice Shard,Avalanche,Foul Play,5,5,3,50000,Shadow,狃拉
+Chespin,62.7,650,grass,none,105.0,101.7,136,1452456,50.0,1239,Vine Whip,Body Slam,Seed Bomb,5,6,3,10000,--,哈力栗
+Charmeleon,62.6,5,fire,none,127.1,109.1,127,1760642,39.0,1496,Ember,Fire Punch,Return,7,12,3,10000,--,火恐龍
+Yanmega,62.6,469,bug,flying,137.3,98.3,121,1632541,18.5,1498,Wing Attack,Aerial Ace,Ancient Power,6,7,3,50000,--,遠古巨蜓
+Chinchou,62.5,170,water,electric,101.7,94.1,164,1569336,50.0,1265,Bubble,Thunderbolt,Water Pulse,5,5,3,50000,--,燈籠魚
+Cinccino,62.5,573,normal,none,135.5,95.9,127,1650504,24.5,1499,Charm,Aqua Tail,Thunderbolt,6,10,3,50000,--,奇諾栗鼠
+Floragato,62.5,907,grass,none,124.9,111.0,129,1788742,37.5,1498,Leafage,Grass Knot,Play Rough,8,9,3,10000,--,蒂蕾喵
+Gabite,62.5,444,dragon,ground,128.8,101.0,133,1729456,30.0,1497,Mud Shot,Dig,Flamethrower,7,7,5,75000,Shadow,尖牙陸鯊
+Metagross,62.5,376,steel,psychic,132.8,123.6,102,1674069,14.5,1496,Bullet Punch,Meteor Mash,Psychic,8,8,5,75000,--,巨金怪
+Pignite,62.5,499,fire,fighting,128.4,84.2,161,1740293,29.5,1495,Ember,Flame Charge,Rock Tomb,9,10,3,10000,--,炒炒豬
+Braixen,62.4,654,fire,none,130.4,106.7,123,1710666,31.5,1497,Ember,Flame Charge,Psyshock,9,8,3,10000,--,長尾火狐
+Combusken,62.4,256,fire,fighting,131.0,99.6,131,1710523,39.0,1497,Ember,Flame Charge,Rock Slide,9,8,3,10000,Shadow,力壯雞
+Eevee,62.4,133,normal,none,100.0,108.4,135,1463320,50.0,1210,Quick Attack,Swift,Dig,5,7,5,75000,--,伊布
+Larvesta,62.4,636,bug,fire,131.7,99.2,130,1697421,44.5,1499,Ember,Flame Charge,Bug Buzz,9,10,5,75000,--,燃燒蟲
+Mr. Rime,62.4,866,ice,psychic,129.0,114.1,118,1737399,20.0,1499,Confusion,Icy Wind,Psychic,4,5,5,75000,--,踏冰人偶
+Corphish,62.3,341,water,none,131.1,95.8,117,1469211,50.0,1391,Bubble,Scald,Razor Shell,5,4,3,50000,Shadow,龍蝦小兵
+Espurr,62.3,677,psychic,none,113.4,108.4,145,1783036,50.0,1424,Confusion,Psyshock,Energy Ball,4,5,3,50000,--,妙喵
+Oricorio,62.3,741,electric,flying,130.9,101.4,128,1699439,24.0,1492,Air Slash,Aerial Ace,Hurricane,5,8,3,75000,Pom-Pom,花舞鳥
+Sudowoodo,62.3,185,rock,none,117.2,130.1,125,1905357,26.0,1496,Counter,Meteor Beam,Trailblaze,10,8,5,75000,Shadow,樹才怪
+Oricorio,62.2,741,ghost,flying,130.9,101.4,128,1699439,24.0,1492,Air Slash,Aerial Ace,Hurricane,5,8,3,75000,Sensu,花舞鳥
+Stunky,62.2,434,poison,dark,114.3,88.2,147,1482226,50.0,1301,Bite,Crunch,Trailblaze,23,23,3,50000,--,臭鼬噗
+Gothorita,62.1,575,psychic,none,112.5,130.8,135,1986960,41.5,1498,Confusion,Future Sight,Psychic,6,5,3,50000,Shadow,哥德小童
+Archen,61.9,566,rock,flying,160.1,76.0,115,1399059,31.0,1497,Quick Attack,Ancient Power,Dragon Claw,6,5,5,75000,--,始祖小鳥
+Drizzile,61.9,817,water,none,137.9,91.4,128,1613242,29.5,1493,Water Gun,Surf,Water Pulse,15,19,3,10000,--,變澀蜥
+Exeggutor,61.9,103,grass,psychic,136.7,93.7,128,1639303,18.5,1497,Bullet Seed,Seed Bomb,Psychic,4,5,3,50000,--,椰蛋樹
+Lampent,61.9,608,ghost,fire,133.3,97.1,130,1681422,36.5,1497,Astonish,Energy Ball,Flame Burst,6,6,5,75000,--,燈火幽靈
+Omastar,61.9,139,rock,water,126.1,128.4,109,1764728,20.0,1493,Mud Shot,Rock Slide,Hydro Pump,6,10,5,75000,Shadow,多刺菊石獸
+Persian,61.9,53,dark,none,123.0,113.2,131,1823635,33.0,1498,Feint Attack,Foul Play,Play Rough,8,10,3,50000,Alolan,貓老大
+Pidgeotto,61.9,17,normal,flying,110.9,100.8,147,1644149,50.0,1350,Wing Attack,Aerial Ace,Twister,6,7,1,10000,Shadow,比比鳥
+Torracat,61.9,726,fire,none,136.6,89.5,134,1638022,34.5,1497,Ember,Flame Charge,Crunch,9,8,3,10000,--,炎熱喵
+Weezing,61.9,110,poison,none,117.0,138.9,117,1901382,24.5,1491,Infestation,Sludge Bomb,Shadow Ball,5,5,3,50000,--,雙彈瓦斯
+Persian,61.8,53,normal,none,118.9,115.9,136,1874511,36.0,1496,Feint Attack,Night Slash,Power Gem,6,9,3,50000,Shadow,貓老大
+Phanpy,61.8,231,ground,none,102.5,95.0,186,1810589,50.0,1364,Tackle,Trailblaze,Body Slam,15,12,3,50000,Shadow,小小象
+Aron,61.7,304,steel,rock,114.3,131.1,127,1902550,50.0,1478,Metal Claw,Body Slam,Iron Head,5,8,1,10000,--,可可多拉
+Elekid,61.7,239,electric,none,126.0,97.5,120,1474345,50.0,1364,Thunder Shock,Thunder Punch,Brick Break,5,5,5,10000,--,電擊怪
+Fearow,61.7,22,normal,flying,132.6,102.7,124,1689204,28.5,1497,Steel Wing,Fly,Drill Run,8,8,1,10000,--,大嘴雀
+Meowstic,61.7,678,psychic,none,117.6,124.5,130,1902817,26.5,1499,Confusion,Shadow Ball,Energy Ball,5,5,3,50000,Female,超能妙喵
+Trapinch,61.7,328,ground,none,148.7,78.1,120,1394782,50.0,1441,Sand Attack,Scorching Sands,Crunch,13,12,5,75000,--,大顎蟻
+Omanyte,61.6,138,rock,water,129.2,131.7,102,1735737,44.5,1500,Water Gun,Rock Blast,Ancient Power,14,15,5,75000,--,菊石獸
+Omastar,61.6,139,rock,water,126.1,128.4,109,1764728,20.0,1493,Mud Shot,Rock Slide,Hydro Pump,6,10,5,75000,--,多刺菊石獸
+Zebstrika,61.6,523,electric,none,137.7,95.5,123,1617244,23.0,1496,Spark,Wild Charge,Flame Charge,7,8,3,50000,Shadow,雷電斑馬
+Oricorio,61.5,741,fire,flying,130.9,101.4,128,1699439,24.0,1492,Air Slash,Aerial Ace,Hurricane,5,8,3,75000,Baile,花舞鳥
+Slowking,61.5,199,poison,psychic,117.9,115.5,139,1893827,20.5,1498,Hex,Surf,Shadow Ball,4,5,3,50000,Galarian,呆呆王
+Bulbasaur,61.4,1,grass,poison,111.8,105.9,120,1419947,50.0,1260,Vine Whip,Power Whip,Sludge Bomb,7,7,3,10000,--,妙蛙種子
+Crabominable,61.4,740,fighting,ice,136.8,87.9,135,1624204,19.0,1494,Bubble,Ice Punch,Brick Break,4,4,3,50000,--,好勝毛蟹
+Hattrem,61.4,857,psychic,none,123.2,115.3,127,1804506,39.0,1496,Confusion,Psyshock,Dazzling Gleam,4,6,5,50000,--,提布莉姆
+Toucannon,61.4,733,normal,flying,137.3,96.8,122,1620926,20.5,1492,Bullet Seed,Drill Peck,Rock Blast,4,4,1,10000,--,銃嘴大鳥
+Trapinch,61.4,328,ground,none,148.7,78.1,120,1394782,50.0,1441,Sand Attack,Scorching Sands,Crunch,13,12,5,75000,Shadow,大顎蟻
+Maractus,61.3,556,grass,none,136.8,93.6,128,1638424,24.0,1498,Bullet Seed,Aerial Ace,Petal Blizzard,4,5,1,10000,--,沙鈴仙人掌
+Persian,61.3,53,normal,none,118.9,115.9,136,1874511,36.0,1496,Feint Attack,Night Slash,Power Gem,6,9,3,50000,--,貓老大
+Ponyta,61.3,77,psychic,none,134.8,109.4,113,1666179,36.5,1500,Psycho Cut,Swift,Play Rough,4,7,3,50000,Galarian,小火馬
+Braviary,61.2,628,psychic,flying,128.6,89.1,151,1729615,19.5,1491,Air Slash,Brave Bird,Fly,7,5,5,75000,Hisuian,勇士雄鷹
+Exeggcute,61.1,102,grass,psychic,102.5,117.6,142,1712557,50.0,1328,Bullet Seed,Seed Bomb,Ancient Power,4,4,3,50000,Shadow,蛋蛋
+Phanpy,61.1,231,ground,none,102.5,95.0,186,1810589,50.0,1364,Tackle,Trailblaze,Body Slam,15,12,3,50000,--,小小象
+Banette,61.0,354,ghost,none,146.8,91.9,113,1524534,24.5,1500,Shadow Claw,Shadow Ball,Thunder,7,8,3,50000,Shadow,詛咒娃娃
+Exeggutor,61.0,103,grass,psychic,136.7,93.7,128,1639303,18.5,1497,Bullet Seed,Seed Bomb,Psychic,4,5,3,50000,Shadow,椰蛋樹
+Liepard,61.0,510,dark,none,140.9,89.3,126,1585005,31.0,1499,Snarl,Dark Pulse,Play Rough,4,5,1,10000,Shadow,酷豹
+Lilligant,61.0,549,grass,none,135.0,105.3,115,1635127,21.5,1491,Charm,Petal Blizzard,Hyper Beam,11,14,1,10000,--,裙兒小姐
+Monferno,60.9,391,fire,fighting,129.6,95.4,139,1719672,41.0,1498,Ember,Flamethrower,Low Sweep,10,7,3,10000,Shadow,猛火猴
+Snover,60.8,459,grass,ice,109.2,100.8,142,1564162,50.0,1311,Powder Snow,Ice Beam,Energy Ball,7,7,3,50000,Shadow,雪笠怪
+Masquerain,60.7,284,bug,flying,130.3,107.8,122,1712792,24.5,1499,Air Slash,Bubble Beam,Lunge,5,5,1,10000,--,雨翅蛾
+Darmanitan,60.6,555,ice,none,151.3,71.4,137,1480445,18.0,1497,Ice Fang,Avalanche,Superpower,9,8,3,50000,Galarian,達摩狒狒
+Geodude,60.5,74,rock,ground,123.5,123.5,113,1724177,50.0,1462,Rock Throw,Rock Slide,Dig,9,10,1,10000,--,小拳石
+Monferno,60.5,391,fire,fighting,129.6,95.4,139,1719672,41.0,1498,Ember,Flamethrower,Low Sweep,10,7,3,10000,--,猛火猴
+Alakazam,60.4,65,psychic,none,157.0,103.1,88,1425029,18.0,1499,Psycho Cut,Fire Punch,Shadow Ball,5,7,3,50000,Shadow,胡地
+Rotom,60.4,479,electric,grass,129.2,143.2,93,1720709,21.0,1491,Astonish,Thunderbolt,Ominous Wind,6,5,5,75000,Mow,洛托姆
+Arbok,60.3,24,poison,none,123.7,120.1,121,1798747,29.0,1495,Dragon Tail,Dark Pulse,Sludge Wave,6,8,3,50000,--,阿柏怪
+Corphish,60.2,341,water,none,131.1,95.8,117,1469211,50.0,1391,Bubble,Scald,Razor Shell,5,4,3,50000,--,龍蝦小兵
+Growlithe,60.2,58,fire,rock,131.9,89.9,142,1684382,50.0,1495,Ember,Rock Slide,Crunch,8,8,3,50000,Hisuian,卡蒂狗
+Pancham,60.2,674,fighting,none,123.3,100.2,147,1816117,47.5,1498,Tackle,Body Slam,Crunch,12,15,3,50000,--,頑皮熊貓
+Rampardos,60.2,409,rock,none,164.6,66.3,125,1363142,16.0,1498,Smack Down,Rock Slide,Flamethrower,6,7,5,75000,Shadow,戰槌龍
+Rotom,60.2,479,electric,water,129.2,143.2,93,1720709,21.0,1491,Thunder Shock,Thunderbolt,Hydro Pump,7,9,5,75000,Wash,洛托姆
+Arcanine,60.1,59,fire,rock,132.4,100.0,127,1682540,17.5,1498,Snarl,Wild Charge,Rock Slide,4,4,3,50000,Hisuian,風速狗
+Exeggcute,60.1,102,grass,psychic,102.5,117.6,142,1712557,50.0,1328,Bullet Seed,Seed Bomb,Ancient Power,4,4,3,50000,--,蛋蛋
+Porygon,60.1,137,normal,none,120.8,114.7,134,1856061,35.5,1500,Tackle,Discharge,Signal Beam,15,19,3,50000,Shadow,多邊獸
+Xatu,60.1,178,psychic,flying,132.9,107.3,118,1681956,25.5,1499,Air Slash,Aerial Ace,Future Sight,5,8,3,50000,Shadow,天然鳥
+Metagross,60.0,376,steel,psychic,132.8,123.6,102,1674069,14.5,1496,Bullet Punch,Meteor Mash,Psychic,8,8,5,75000,Shadow,巨金怪
+Crabrawler,59.8,739,fighting,none,135.7,99.1,122,1641269,48.5,1495,Bubble,Crabhammer,Power-Up Punch,5,4,3,50000,--,好勝蟹
+Emboar,59.7,500,fire,fighting,137.9,79.9,147,1618930,18.5,1494,Ember,Blast Burn,Rock Slide,9,8,3,10000,--,炎武王
+Garbodor,59.7,569,poison,none,121.7,114.6,132,1842015,23.5,1498,Infestation,Body Slam,Seed Bomb,3,4,3,50000,--,灰塵山
+Mr. Mime,59.7,122,ice,psychic,131.2,127.7,102,1709143,27.0,1497,Confusion,Triple Axel,Ice Punch,4,4,5,75000,Galarian,魔牆人偶
+Bulbasaur,59.6,1,grass,poison,111.8,105.9,120,1419947,50.0,1260,Vine Whip,Power Whip,Sludge Bomb,7,7,3,10000,Shadow,妙蛙種子
+Krabby,59.5,98,water,none,148.1,110.4,92,1504334,42.0,1499,Bubble,Razor Shell,Water Pulse,4,5,3,50000,--,大鉗蟹
+Bergmite,59.4,712,ice,none,110.9,113.4,135,1698675,50.0,1374,Tackle,Icy Wind,Crunch,15,15,3,50000,--,冰寶
+Dodrio,59.4,85,normal,flying,144.4,99.1,108,1545284,23.5,1494,Steel Wing,Brave Bird,Drill Peck,10,7,3,50000,--,嘟嘟利
+Flaaffy,59.4,180,electric,none,121.9,99.8,151,1835783,45.5,1497,Charge Beam,Trailblaze,Power Gem,5,5,5,75000,--,茸茸羊
+Loudred,59.3,294,normal,none,125.2,80.7,178,1797820,50.0,1500,Bite,Stomp,Disarming Voice,20,23,1,10000,Shadow,吼爆彈
+Volbeat,59.2,313,bug,none,111.1,136.8,132,2005636,34.0,1494,Tackle,Bug Buzz,Thunderbolt,20,19,3,50000,--,電螢蟲
+Roselia,59.1,315,grass,poison,139.6,107.3,107,1602355,30.5,1497,Poison Jab,Sludge Bomb,Petal Blizzard,8,10,3,50000,--,毒薔薇
+Shaymin,59.1,492,grass,flying,138.1,93.6,124,1604184,15.0,1489,Magical Leaf,Grass Knot,Energy Ball,5,6,20,100000,Sky,謝米
+Octillery,58.9,224,water,none,132.9,103.2,123,1686230,24.5,1500,Lock On,Octazooka,Gunk Shot,10,15,1,10000,--,章魚桶
+Starmie,58.9,121,water,psychic,132.2,121.8,104,1675198,21.0,1488,Quick Attack,Power Gem,Ice Beam,7,7,3,50000,--,寶石海星
+Deerling,58.8,585,normal,grass,109.2,96.6,142,1498988,50.0,1283,Tackle,Wild Charge,Trailblaze,15,15,3,50000,--,四季鹿
+Liepard,58.8,510,dark,none,140.9,89.3,126,1585005,31.0,1499,Snarl,Dark Pulse,Play Rough,4,5,1,10000,--,酷豹
+Sawsbuck,58.7,586,normal,grass,130.1,103.1,128,1717029,23.0,1495,Feint Attack,Wild Charge,Trailblaze,8,8,3,50000,--,萌芽鹿
+Komala,58.6,775,normal,none,137.1,110.2,108,1631813,21.0,1498,Rollout,Payback,Play Rough,5,5,3,50000,--,樹枕尾熊
+Absol,58.5,359,dark,none,157.9,82.7,109,1423430,22.0,1499,Snarl,Dark Pulse,Megahorn,4,5,5,75000,Shadow,阿勃梭魯
+Arbok,58.5,24,poison,none,123.7,120.1,121,1798747,29.0,1495,Dragon Tail,Dark Pulse,Sludge Wave,6,8,3,50000,Shadow,阿柏怪
+Goldeen,58.5,118,water,none,116.0,105.0,120,1461636,50.0,1302,Mud Shot,Aqua Tail,Horn Attack,5,5,3,50000,--,角金魚
+Oricorio,58.5,741,psychic,flying,130.9,101.4,128,1699439,24.0,1492,Air Slash,Aerial Ace,Hurricane,5,8,3,75000,Pa'u,花舞鳥
+Alakazam,58.3,65,psychic,none,157.0,103.1,88,1425029,18.0,1499,Psycho Cut,Fire Punch,Shadow Ball,5,7,3,50000,--,胡地
+Azelf,58.3,482,psychic,none,152.6,91.4,105,1464716,17.0,1500,Confusion,Swift,Future Sight,3,6,20,100000,--,亞克諾姆
+Piplup,58.2,393,water,none,106.7,98.3,131,1374452,50.0,1215,Bubble,Drill Peck,Icy Wind,4,5,3,10000,--,波加曼
+Xatu,58.2,178,psychic,flying,132.9,107.3,118,1681956,25.5,1499,Air Slash,Aerial Ace,Future Sight,5,8,3,50000,--,天然鳥
+Houndour,58.1,228,dark,fire,140.3,82.3,120,1386732,50.0,1395,Ember,Crunch,Flamethrower,8,10,3,50000,Shadow,戴魯比
+Piplup,58.1,393,water,none,106.7,98.3,131,1374452,50.0,1215,Bubble,Drill Peck,Icy Wind,4,5,3,10000,Shadow,波加曼
+Loudred,58.0,294,normal,none,125.2,80.7,178,1797820,50.0,1500,Bite,Stomp,Disarming Voice,20,23,1,10000,--,吼爆彈
+Accelgor,57.9,617,bug,none,143.2,84.3,129,1556853,22.5,1498,Water Shuriken,Bug Buzz,Signal Beam,5,4,3,50000,Shadow,敏捷蟲
+Clawitzer,57.7,693,water,none,134.4,110.5,111,1648951,20.0,1493,Water Gun,Crabhammer,Ice Beam,17,19,3,50000,--,鋼炮臂蝦
+Mothim,57.7,414,bug,flying,140.0,83.0,137,1591422,31.5,1496,Air Slash,Aerial Ace,Bug Buzz,5,7,1,10000,--,紳士蛾
+Tentacool,57.6,72,water,poison,94.1,137.8,113,1465578,50.0,1176,Poison Sting,Water Pulse,Wrap,7,5,3,50000,Shadow,瑪瑙水母
+Weezing,57.6,110,poison,none,118.4,138.9,115,1889997,24.5,1495,Infestation,Sludge Bomb,Shadow Ball,5,5,3,50000,Shadow,雙彈瓦斯
+Watchog,57.4,505,normal,none,126.4,113.2,124,1773125,30.5,1497,Bite,Crunch,Hyper Fang,23,25,1,10000,Shadow,步哨鼠
+Absol,57.3,359,dark,none,157.9,82.7,109,1423430,22.0,1499,Snarl,Dark Pulse,Megahorn,4,5,5,75000,--,阿勃梭魯
+Lycanroc,57.3,745,rock,none,134.3,101.0,123,1668138,20.5,1498,Counter,Stone Edge,Trailblaze,10,8,5,50000,Midnight,鬃岩狼人
+Seadra,57.1,117,water,none,132.6,114.5,111,1685540,27.0,1499,Dragon Breath,Hydro Pump,Blizzard,25,25,3,50000,Shadow,海刺龍
+Hoopa,57.0,720,psychic,ghost,144.8,106.3,99,1524461,16.0,1488,Astonish,Shadow Ball,Psychic,6,6,20,100000,--,胡帕
+Roggenrola,57.0,524,rock,none,114.3,105.0,135,1620509,50.0,1362,Smack Down,Stone Edge,Rock Blast,7,5,3,50000,Shadow,石丸子
+Rotom,57.0,479,electric,ice,129.2,143.2,93,1720709,21.0,1491,Thunder Shock,Thunderbolt,Blizzard,7,9,5,75000,Frost,洛托姆
+Tentacool,57.0,72,water,poison,94.1,137.8,113,1465578,50.0,1176,Poison Sting,Water Pulse,Wrap,7,5,3,50000,--,瑪瑙水母
+Beautifly,56.7,267,bug,flying,146.4,81.9,128,1535506,34.5,1500,Infestation,Silver Wind,Bug Buzz,4,5,1,10000,--,狩獵鳳蝶
+Flaaffy,56.7,180,electric,none,121.9,99.8,151,1835783,45.5,1497,Charge Beam,Trailblaze,Power Gem,5,5,5,75000,Shadow,茸茸羊
+Trumbeak,56.7,732,normal,flying,134.9,95.2,129,1657028,47.5,1500,Peck,Drill Peck,Rock Blast,8,8,1,10000,--,喇叭啄鳥
+Turtwig,56.6,387,grass,none,112.6,105.0,135,1596678,50.0,1342,Tackle,Body Slam,Seed Bomb,12,15,3,10000,Shadow,草苗龜
+Inteleon,56.5,818,water,none,154.0,89.6,105,1449217,18.5,1498,Water Gun,Surf,Shadow Ball,15,19,3,10000,--,千面避役
+Nosepass,56.4,299,rock,none,81.5,193.3,98,1543812,50.0,1123,Rock Throw,Rock Slide,Rock Blast,9,8,3,50000,--,朝北鼻
+Kabuto,56.3,140,rock,water,133.6,128.6,97,1667621,49.0,1498,Mud Shot,Ancient Power,Aqua Jet,6,6,5,75000,--,化石盔
+Accelgor,56.2,617,bug,none,143.2,84.3,129,1556853,22.5,1498,Water Shuriken,Bug Buzz,Acid Spray,5,4,3,50000,--,敏捷蟲
+Beheeyem,56.2,606,psychic,none,134.4,105.7,116,1648710,20.0,1491,Confusion,Rock Slide,Dark Pulse,4,5,3,50000,--,大宇怪
+Clauncher,56.0,692,water,none,103.4,110.9,127,1455967,50.0,1230,Water Gun,Crabhammer,Aqua Jet,17,15,3,50000,--,鐵臂槍蝦
+Grumpig,56.0,326,psychic,none,114.5,128.3,133,1953798,24.0,1498,Extrasensory,Shadow Ball,Psychic,6,6,1,10000,--,噗噗豬
+Nosepass,55.9,299,rock,none,81.5,193.3,98,1543812,50.0,1123,Rock Throw,Rock Slide,Rock Blast,9,8,3,50000,Shadow,朝北鼻
+Turtwig,55.9,387,grass,none,112.6,105.0,135,1596678,50.0,1342,Tackle,Body Slam,Seed Bomb,12,15,3,10000,--,草苗龜
+Watchog,55.9,505,normal,none,126.4,113.2,124,1773125,30.5,1497,Bite,Crunch,Grass Knot,23,25,1,10000,--,步哨鼠
+Porygon-Z,55.7,474,normal,none,148.7,88.4,115,1512352,16.5,1499,Lock On,Tri Attack,Zap Cannon,10,16,3,50000,--,多邊獸Ｚ
+Roggenrola,55.5,524,rock,none,114.3,105.0,135,1620509,50.0,1362,Smack Down,Stone Edge,Rock Blast,7,5,3,50000,--,石丸子
+Drowzee,55.3,96,psychic,none,87.4,126.9,142,1574590,50.0,1176,Confusion,Psyshock,Return,4,6,3,50000,--,催眠貘
+Elgyem,55.3,605,psychic,none,134.0,94.7,132,1675163,49.5,1500,Confusion,Dark Pulse,Psychic,5,5,3,50000,--,小灰怪
+Porygon-Z,55.3,474,normal,none,148.7,88.4,115,1512352,16.5,1499,Lock On,Tri Attack,Zap Cannon,10,16,3,50000,Shadow,多邊獸Ｚ
+Varoom,55.3,965,steel,poison,116.0,102.5,120,1426556,50.0,1287,Poison Jab,Gyro Ball,Gunk Shot,9,11,3,50000,--,噗隆隆
+Houndour,55.2,228,dark,fire,140.3,82.3,120,1386732,50.0,1395,Ember,Crunch,Flamethrower,8,10,3,50000,--,戴魯比
+Pupitar,55.2,247,rock,ground,121.1,112.7,136,1856138,35.0,1500,Bite,Ancient Power,Dig,23,25,5,75000,Shadow,沙基拉斯
+Rampardos,55.2,409,rock,none,164.6,66.3,125,1363142,16.0,1498,Smack Down,Rock Slide,Flamethrower,6,7,5,75000,--,戰槌龍
+Snubbull,55.2,209,fairy,none,127.7,84.0,142,1524055,50.0,1399,Tackle,Crunch,Brick Break,15,14,3,50000,--,布魯
+Snubbull,55.1,209,fairy,none,127.7,84.0,142,1524055,50.0,1399,Tackle,Crunch,Brick Break,15,14,3,50000,Shadow,布魯
+Totodile,55.1,158,water,none,110.9,104.2,127,1467804,50.0,1279,Water Gun,Crunch,Water Pulse,15,19,3,10000,--,小鋸鱷
+Rowlet,55.0,722,grass,flying,98.3,95.8,154,1450375,50.0,1196,Leafage,Seed Bomb,Energy Ball,7,8,3,10000,--,木木梟
+Seadra,54.9,117,water,none,132.6,114.5,111,1685540,27.0,1499,Dragon Breath,Hydro Pump,Blizzard,25,25,3,50000,--,海刺龍
+Gorebyss,54.8,368,water,none,136.9,118.5,101,1638002,22.5,1500,Water Gun,Water Pulse,Psychic,19,19,3,50000,--,櫻花魚
+Sigilyph,54.7,561,psychic,flying,131.6,114.0,114,1710530,22.0,1500,Air Slash,Ancient Power,Signal Beam,5,7,5,75000,--,象徵鳥
+Chatot,54.4,441,normal,flying,140.4,78.4,145,1596254,32.5,1500,Steel Wing,Night Shade,Sky Attack,8,10,5,75000,--,聒噪鳥
+Pineco,54.4,204,bug,none,103.4,115.1,127,1511117,50.0,1253,Bug Bite,Rock Tomb,Sand Tomb,20,14,5,75000,Shadow,榛果球
+Gumshoos,54.3,735,normal,none,134.9,85.7,144,1664430,25.5,1500,Bite,Crunch,Hyper Fang,23,25,1,10000,--,貓鼬探長
+Throh,54.3,538,fighting,none,110.3,107.8,170,2020070,21.5,1493,Low Kick,Body Slam,Brick Break,7,8,5,75000,Shadow,投摔鬼
+Throh,54.1,538,fighting,none,110.3,107.8,170,2020070,21.5,1493,Low Kick,Body Slam,Brick Break,7,8,5,75000,--,投摔鬼
+Drowzee,53.8,96,psychic,none,87.4,126.9,142,1574590,50.0,1176,Confusion,Psyshock,Psychic,4,5,3,50000,Shadow,催眠貘
+Ferroseed,53.7,597,grass,steel,81.5,142.9,119,1385595,50.0,1064,Metal Claw,Iron Head,Return,8,10,3,75000,--,種子鐵球
+Noivern,53.4,715,flying,dragon,126.4,110.7,127,1776882,20.5,1498,Air Slash,Hurricane,Boomburst,8,8,5,75000,--,音波龍
+Regieleki,53.4,894,electric,none,152.3,82.4,117,1469385,20.0,1496,Lock On,Thunder,Hyper Beam,12,16,20,100000,--,雷吉艾勒奇
+Totodile,53.3,158,water,none,110.9,104.2,127,1467804,50.0,1279,Water Gun,Crunch,Water Pulse,15,19,3,10000,Shadow,小鋸鱷
+Grumpig,53.2,326,psychic,none,114.5,128.3,133,1953798,24.0,1498,Extrasensory,Shadow Ball,Psychic,6,6,1,10000,Shadow,噗噗豬
+Swirlix,53.1,684,fairy,none,104.2,112.6,145,1701231,50.0,1333,Tackle,Energy Ball,Draining Kiss,19,19,3,50000,--,綿綿泡芙
+Jynx,52.9,124,ice,psychic,142.2,101.5,109,1573630,22.0,1496,Confusion,Avalanche,Psyshock,4,4,5,75000,--,迷唇姐
+Axew,52.8,610,dragon,none,139.5,95.2,121,1607281,49.0,1498,Scratch,Dragon Claw,Aqua Tail,18,18,5,75000,--,牙牙
+Pupitar,52.7,247,rock,ground,121.1,112.7,136,1856138,35.0,1500,Bite,Ancient Power,Dig,23,25,5,75000,--,沙基拉斯
+Ferroseed,52.6,597,grass,steel,81.5,142.9,119,1385595,50.0,1064,Metal Claw,Iron Head,Flash Cannon,8,10,3,75000,Shadow,種子鐵球
+Koffing,52.3,109,poison,none,112.6,131.1,113,1667925,50.0,1373,Infestation,Dark Pulse,Sludge Bomb,5,5,3,50000,--,瓦斯彈
+Musharna,52.2,518,psychic,none,113.7,108.9,159,1968272,20.5,1499,Charge Beam,Psyshock,Dazzling Gleam,5,7,3,50000,--,夢夢蝕
+Unfezant,51.8,521,normal,flying,139.2,96.2,120,1606547,20.0,1495,Air Slash,Sky Attack,Hyper Beam,7,9,1,10000,Shadow,高傲雉雞
+Butterfree,51.3,12,bug,flying,126.7,111.9,124,1757032,31.5,1494,Confusion,Bug Buzz,Signal Beam,5,5,1,10000,Shadow,巴大蝶
+Flabebe,51.0,669,fairy,none,103.4,113.4,119,1395258,50.0,1202,Vine Whip,Dazzling Gleam,Psychic,9,7,3,50000,--,
+Audino,50.9,531,normal,none,92.6,138.1,189,2416540,39.0,1499,Zen Headbutt,Disarming Voice,Hyper Beam,8,14,3,50000,--,差不多娃娃
+Pineco,50.3,204,bug,none,103.4,115.1,127,1511117,50.0,1253,Bug Bite,Rock Tomb,Return,20,24,5,75000,--,榛果球
+Butterfree,50.2,12,bug,flying,126.7,111.9,124,1757032,31.5,1494,Confusion,Bug Buzz,Signal Beam,5,5,1,10000,--,巴大蝶
+Deoxys,49.4,386,psychic,none,140.8,131.6,86,1592886,18.5,1499,Charge Beam,Psycho Boost,Swift,4,4,20,100000,Speed,代歐奇希斯
+Meltan,49.3,808,steel,none,111.8,95.8,121,1295420,50.0,1207,Thunder Shock,Thunderbolt,Flash Cannon,7,8,20,100000,--,美錄坦
+Koffing,49.1,109,poison,none,112.6,131.1,113,1667925,50.0,1373,Infestation,Dark Pulse,Sludge Bomb,5,5,3,50000,Shadow,瓦斯彈
+Unfezant,48.8,521,normal,flying,139.2,96.2,120,1606547,20.0,1495,Air Slash,Sky Attack,Hyper Beam,7,9,1,10000,--,高傲雉雞
+Anorith,48.6,347,rock,bug,147.0,92.1,113,1529912,43.5,1500,Struggle Bug,Ancient Power,Cross Poison,6,5,3,50000,--,太古羽蟲
+Anorith,48.4,347,rock,bug,147.0,92.1,113,1529912,43.5,1500,Struggle Bug,Ancient Power,Cross Poison,6,5,3,50000,Shadow,太古羽蟲
+Cherrim,48.1,421,grass,none,122.9,115.2,129,1826290,27.0,1498,Bullet Seed,Solar Beam,Dazzling Gleam,7,6,1,10000,Overcast,櫻花兒
+Vanilluxe,47.6,584,ice,none,131.5,116.8,110,1690058,19.5,1497,Astonish,Blizzard,Signal Beam,8,6,3,50000,--,雙倍多多冰
+Reuniclus,46.7,579,psychic,none,127.6,93.7,147,1756073,18.5,1500,Hidden Power (Psychic),Shadow Ball,Future Sight,7,9,3,50000,Shadow,人造細胞卵
+Timburr,46.7,532,fighting,none,125.2,85.7,164,1759945,50.0,1487,Low Kick,Brick Break,Rock Tomb,8,12,5,75000,--,搬運小匠
+Duosion,46.0,578,psychic,none,149.2,82.7,121,1492507,27.5,1493,Hidden Power (Psychic),Psyshock,Night Shade,6,6,3,50000,Shadow,雙卵細胞球
+Solosis,46.0,577,psychic,none,152.9,79.8,120,1465025,50.0,1497,Hidden Power (Psychic),Psyshock,Night Shade,6,6,3,50000,Shadow,單卵細胞球
+Timburr,45.4,532,fighting,none,125.2,85.7,164,1759945,50.0,1487,Low Kick,Brick Break,Rock Tomb,8,12,5,75000,Shadow,搬運小匠
+Skiddo,44.2,672,grass,none,116.0,98.3,151,1721514,50.0,1414,Rock Smash,Seed Bomb,Rock Slide,7,7,3,50000,--,坐騎小羊
+Regigigas,42.9,486,normal,none,138.4,105.8,110,1610685,12.5,1496,Hidden Power (Ground),Thunder,Focus Blast,8,10,20,100000,Shadow,雷吉奇卡斯
+Solosis,42.9,577,psychic,none,152.9,79.8,120,1465025,50.0,1497,Hidden Power (Psychic),Psyshock,Night Shade,6,6,3,50000,--,單卵細胞球
+Duosion,42.7,578,psychic,none,149.2,82.7,121,1492507,27.5,1493,Hidden Power (Psychic),Psyshock,Night Shade,6,6,3,50000,--,雙卵細胞球
+Reuniclus,42.3,579,psychic,none,127.6,93.7,147,1756073,18.5,1500,Hidden Power (Fighting),Shadow Ball,Future Sight,7,9,3,50000,--,人造細胞卵
+Spoink,42.1,325,psychic,none,117.6,115.1,140,1896031,50.0,1495,Zen Headbutt,Shadow Ball,Mirror Coat,10,10,1,10000,Shadow,跳跳豬
+Clefairy,41.2,35,fairy,none,102.5,103.4,157,1663540,50.0,1306,Zen Headbutt,Swift,Disarming Voice,6,8,1,10000,--,皮皮
+Kadabra,41.0,64,psychic,none,163.7,90.1,92,1356485,26.5,1496,Psycho Cut,Shadow Ball,Return,7,8,3,50000,--,勇基拉
+Spoink,40.8,325,psychic,none,117.6,115.1,140,1896031,50.0,1495,Zen Headbutt,Shadow Ball,Return,10,12,1,10000,--,跳跳豬
+Munna,40.5,517,psychic,none,105.9,89.9,166,1580270,50.0,1294,Charge Beam,Psyshock,Dazzling Gleam,5,7,3,50000,--,食夢夢
+Unown,37.9,201,psychic,none,126.9,89.1,125,1412738,50.0,1339,Hidden Power (Psychic),Struggle,,13,0,5,75000,--,未知圖騰
+Mienfoo,37.7,619,fighting,none,143.6,93.8,116,1563337,48.0,1500,Low Kick,High Jump Kick,Brick Break,11,8,3,50000,--,功夫鼬
+Slaking,21.7,289,normal,none,139.3,83.6,138,1607595,12.5,1498,Yawn,Body Slam,Earthquake,3,6,5,75000,--,請假王
